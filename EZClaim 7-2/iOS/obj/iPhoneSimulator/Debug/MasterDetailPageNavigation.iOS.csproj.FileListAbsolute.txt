@@ -1,0 +1,182 @@
+C:\Users\Jawad\Desktop\MasterDetailPage\iOS\bin\iPhoneSimulator\Debug\MasterDetailPageNavigationiOS.exe
+C:\Users\Jawad\Desktop\MasterDetailPage\iOS\bin\iPhoneSimulator\Debug\MasterDetailPageNavigationiOS.pdb
+C:\Users\Jawad\Desktop\MasterDetailPage\iOS\bin\iPhoneSimulator\Debug\MasterDetailPageNavigation.dll
+C:\Users\Jawad\Desktop\MasterDetailPage\iOS\bin\iPhoneSimulator\Debug\Xamarin.Forms.Core.dll
+C:\Users\Jawad\Desktop\MasterDetailPage\iOS\bin\iPhoneSimulator\Debug\Xamarin.Forms.Platform.dll
+C:\Users\Jawad\Desktop\MasterDetailPage\iOS\bin\iPhoneSimulator\Debug\Xamarin.Forms.Platform.iOS.dll
+C:\Users\Jawad\Desktop\MasterDetailPage\iOS\bin\iPhoneSimulator\Debug\Xamarin.Forms.Xaml.dll
+C:\Users\Jawad\Desktop\MasterDetailPage\iOS\bin\iPhoneSimulator\Debug\MasterDetailPageNavigation.pdb
+C:\Users\Jawad\Desktop\MasterDetailPage\iOS\bin\iPhoneSimulator\Debug\Xamarin.Forms.Core.pdb
+C:\Users\Jawad\Desktop\MasterDetailPage\iOS\bin\iPhoneSimulator\Debug\Xamarin.Forms.Core.xml
+C:\Users\Jawad\Desktop\MasterDetailPage\iOS\bin\iPhoneSimulator\Debug\Xamarin.Forms.Core.dll.mdb
+C:\Users\Jawad\Desktop\MasterDetailPage\iOS\bin\iPhoneSimulator\Debug\Xamarin.Forms.Platform.iOS.pdb
+C:\Users\Jawad\Desktop\MasterDetailPage\iOS\bin\iPhoneSimulator\Debug\Xamarin.Forms.Platform.iOS.dll.mdb
+C:\Users\Jawad\Desktop\MasterDetailPage\iOS\bin\iPhoneSimulator\Debug\Xamarin.Forms.Xaml.pdb
+C:\Users\Jawad\Desktop\MasterDetailPage\iOS\bin\iPhoneSimulator\Debug\Xamarin.Forms.Xaml.xml
+C:\Users\Jawad\Desktop\MasterDetailPage\iOS\bin\iPhoneSimulator\Debug\Xamarin.Forms.Xaml.dll.mdb
+C:\Users\Jawad\Desktop\MasterDetailPage\iOS\bin\iPhoneSimulator\Debug\ar\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\Jawad\Desktop\MasterDetailPage\iOS\bin\iPhoneSimulator\Debug\ca\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\Jawad\Desktop\MasterDetailPage\iOS\bin\iPhoneSimulator\Debug\cs\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\Jawad\Desktop\MasterDetailPage\iOS\bin\iPhoneSimulator\Debug\da\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\Jawad\Desktop\MasterDetailPage\iOS\bin\iPhoneSimulator\Debug\de\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\Jawad\Desktop\MasterDetailPage\iOS\bin\iPhoneSimulator\Debug\el\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\Jawad\Desktop\MasterDetailPage\iOS\bin\iPhoneSimulator\Debug\es\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\Jawad\Desktop\MasterDetailPage\iOS\bin\iPhoneSimulator\Debug\fi\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\Jawad\Desktop\MasterDetailPage\iOS\bin\iPhoneSimulator\Debug\fr\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\Jawad\Desktop\MasterDetailPage\iOS\bin\iPhoneSimulator\Debug\he\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\Jawad\Desktop\MasterDetailPage\iOS\bin\iPhoneSimulator\Debug\hi\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\Jawad\Desktop\MasterDetailPage\iOS\bin\iPhoneSimulator\Debug\hr\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\Jawad\Desktop\MasterDetailPage\iOS\bin\iPhoneSimulator\Debug\hu\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\Jawad\Desktop\MasterDetailPage\iOS\bin\iPhoneSimulator\Debug\id\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\Jawad\Desktop\MasterDetailPage\iOS\bin\iPhoneSimulator\Debug\it\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\Jawad\Desktop\MasterDetailPage\iOS\bin\iPhoneSimulator\Debug\ja\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\Jawad\Desktop\MasterDetailPage\iOS\bin\iPhoneSimulator\Debug\ko\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\Jawad\Desktop\MasterDetailPage\iOS\bin\iPhoneSimulator\Debug\ms\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\Jawad\Desktop\MasterDetailPage\iOS\bin\iPhoneSimulator\Debug\nb\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\Jawad\Desktop\MasterDetailPage\iOS\bin\iPhoneSimulator\Debug\nl\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\Jawad\Desktop\MasterDetailPage\iOS\bin\iPhoneSimulator\Debug\pl\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\Jawad\Desktop\MasterDetailPage\iOS\bin\iPhoneSimulator\Debug\pt\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\Jawad\Desktop\MasterDetailPage\iOS\bin\iPhoneSimulator\Debug\pt-BR\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\Jawad\Desktop\MasterDetailPage\iOS\bin\iPhoneSimulator\Debug\ro\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\Jawad\Desktop\MasterDetailPage\iOS\bin\iPhoneSimulator\Debug\ru\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\Jawad\Desktop\MasterDetailPage\iOS\bin\iPhoneSimulator\Debug\sk\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\Jawad\Desktop\MasterDetailPage\iOS\bin\iPhoneSimulator\Debug\sv\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\Jawad\Desktop\MasterDetailPage\iOS\bin\iPhoneSimulator\Debug\th\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\Jawad\Desktop\MasterDetailPage\iOS\bin\iPhoneSimulator\Debug\tr\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\Jawad\Desktop\MasterDetailPage\iOS\bin\iPhoneSimulator\Debug\uk\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\Jawad\Desktop\MasterDetailPage\iOS\bin\iPhoneSimulator\Debug\vi\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\Jawad\Desktop\MasterDetailPage\iOS\bin\iPhoneSimulator\Debug\zh-Hans\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\Jawad\Desktop\MasterDetailPage\iOS\bin\iPhoneSimulator\Debug\zh-Hant\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\Jawad\Desktop\MasterDetailPage\iOS\bin\iPhoneSimulator\Debug\zh-HK\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\Jawad\Desktop\MasterDetailPage\iOS\obj\iPhoneSimulator\Debug\ibtool\_BundleResourceWithLogicalName.items
+C:\Users\Jawad\Desktop\MasterDetailPage\iOS\obj\iPhoneSimulator\Debug\actool\_PartialAppManifest.items
+C:\Users\Jawad\Desktop\MasterDetailPage\iOS\obj\iPhoneSimulator\Debug\actool\_BundleResourceWithLogicalName.items
+C:\Users\Jawad\Desktop\MasterDetailPage\iOS\obj\iPhoneSimulator\Debug\optimized\
+C:\Users\Jawad\Desktop\MasterDetailPage\iOS\obj\iPhoneSimulator\Debug\MasterDetailPageNavigation.iOS.csprojResolveAssemblyReference.cache
+C:\Users\Jawad\Desktop\MasterDetailPage\iOS\obj\iPhoneSimulator\Debug\MasterDetailPageNavigationiOS.exe
+C:\Users\Jawad\Desktop\MasterDetailPage\iOS\obj\iPhoneSimulator\Debug\MasterDetailPageNavigationiOS.pdb
+C:\Users\Jawad\Desktop\MasterDetailPage\iOS\obj\iPhoneSimulator\Debug\MasterDetailPageNavigationiOS.exe.mdb
+C:\Users\Jawad\Desktop\MasterDetailPage\iOS\bin\iPhoneSimulator\Debug\MasterDetailPageNavigationiOS.exe.mdb
+C:\Users\Jawad\Desktop\EZClaim\MasterDetailPage\iOS\bin\iPhoneSimulator\Debug\MasterDetailPageNavigationiOS.exe
+C:\Users\Jawad\Desktop\EZClaim\MasterDetailPage\iOS\bin\iPhoneSimulator\Debug\MasterDetailPageNavigationiOS.pdb
+C:\Users\Jawad\Desktop\EZClaim\MasterDetailPage\iOS\bin\iPhoneSimulator\Debug\MasterDetailPageNavigation.dll
+C:\Users\Jawad\Desktop\EZClaim\MasterDetailPage\iOS\bin\iPhoneSimulator\Debug\Xamarin.Forms.Core.dll
+C:\Users\Jawad\Desktop\EZClaim\MasterDetailPage\iOS\bin\iPhoneSimulator\Debug\Xamarin.Forms.Platform.dll
+C:\Users\Jawad\Desktop\EZClaim\MasterDetailPage\iOS\bin\iPhoneSimulator\Debug\Xamarin.Forms.Platform.iOS.dll
+C:\Users\Jawad\Desktop\EZClaim\MasterDetailPage\iOS\bin\iPhoneSimulator\Debug\Xamarin.Forms.Xaml.dll
+C:\Users\Jawad\Desktop\EZClaim\MasterDetailPage\iOS\bin\iPhoneSimulator\Debug\MasterDetailPageNavigation.pdb
+C:\Users\Jawad\Desktop\EZClaim\MasterDetailPage\iOS\bin\iPhoneSimulator\Debug\Xamarin.Forms.Core.pdb
+C:\Users\Jawad\Desktop\EZClaim\MasterDetailPage\iOS\bin\iPhoneSimulator\Debug\Xamarin.Forms.Core.xml
+C:\Users\Jawad\Desktop\EZClaim\MasterDetailPage\iOS\bin\iPhoneSimulator\Debug\Xamarin.Forms.Core.dll.mdb
+C:\Users\Jawad\Desktop\EZClaim\MasterDetailPage\iOS\bin\iPhoneSimulator\Debug\Xamarin.Forms.Platform.iOS.pdb
+C:\Users\Jawad\Desktop\EZClaim\MasterDetailPage\iOS\bin\iPhoneSimulator\Debug\Xamarin.Forms.Platform.iOS.dll.mdb
+C:\Users\Jawad\Desktop\EZClaim\MasterDetailPage\iOS\bin\iPhoneSimulator\Debug\Xamarin.Forms.Xaml.pdb
+C:\Users\Jawad\Desktop\EZClaim\MasterDetailPage\iOS\bin\iPhoneSimulator\Debug\Xamarin.Forms.Xaml.xml
+C:\Users\Jawad\Desktop\EZClaim\MasterDetailPage\iOS\bin\iPhoneSimulator\Debug\Xamarin.Forms.Xaml.dll.mdb
+C:\Users\Jawad\Desktop\EZClaim\MasterDetailPage\iOS\bin\iPhoneSimulator\Debug\ar\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\Jawad\Desktop\EZClaim\MasterDetailPage\iOS\bin\iPhoneSimulator\Debug\ca\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\Jawad\Desktop\EZClaim\MasterDetailPage\iOS\bin\iPhoneSimulator\Debug\cs\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\Jawad\Desktop\EZClaim\MasterDetailPage\iOS\bin\iPhoneSimulator\Debug\da\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\Jawad\Desktop\EZClaim\MasterDetailPage\iOS\bin\iPhoneSimulator\Debug\de\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\Jawad\Desktop\EZClaim\MasterDetailPage\iOS\bin\iPhoneSimulator\Debug\el\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\Jawad\Desktop\EZClaim\MasterDetailPage\iOS\bin\iPhoneSimulator\Debug\es\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\Jawad\Desktop\EZClaim\MasterDetailPage\iOS\bin\iPhoneSimulator\Debug\fi\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\Jawad\Desktop\EZClaim\MasterDetailPage\iOS\bin\iPhoneSimulator\Debug\fr\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\Jawad\Desktop\EZClaim\MasterDetailPage\iOS\bin\iPhoneSimulator\Debug\he\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\Jawad\Desktop\EZClaim\MasterDetailPage\iOS\bin\iPhoneSimulator\Debug\hi\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\Jawad\Desktop\EZClaim\MasterDetailPage\iOS\bin\iPhoneSimulator\Debug\hr\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\Jawad\Desktop\EZClaim\MasterDetailPage\iOS\bin\iPhoneSimulator\Debug\hu\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\Jawad\Desktop\EZClaim\MasterDetailPage\iOS\bin\iPhoneSimulator\Debug\id\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\Jawad\Desktop\EZClaim\MasterDetailPage\iOS\bin\iPhoneSimulator\Debug\it\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\Jawad\Desktop\EZClaim\MasterDetailPage\iOS\bin\iPhoneSimulator\Debug\ja\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\Jawad\Desktop\EZClaim\MasterDetailPage\iOS\bin\iPhoneSimulator\Debug\ko\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\Jawad\Desktop\EZClaim\MasterDetailPage\iOS\bin\iPhoneSimulator\Debug\ms\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\Jawad\Desktop\EZClaim\MasterDetailPage\iOS\bin\iPhoneSimulator\Debug\nb\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\Jawad\Desktop\EZClaim\MasterDetailPage\iOS\bin\iPhoneSimulator\Debug\nl\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\Jawad\Desktop\EZClaim\MasterDetailPage\iOS\bin\iPhoneSimulator\Debug\pl\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\Jawad\Desktop\EZClaim\MasterDetailPage\iOS\bin\iPhoneSimulator\Debug\pt\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\Jawad\Desktop\EZClaim\MasterDetailPage\iOS\bin\iPhoneSimulator\Debug\pt-BR\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\Jawad\Desktop\EZClaim\MasterDetailPage\iOS\bin\iPhoneSimulator\Debug\ro\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\Jawad\Desktop\EZClaim\MasterDetailPage\iOS\bin\iPhoneSimulator\Debug\ru\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\Jawad\Desktop\EZClaim\MasterDetailPage\iOS\bin\iPhoneSimulator\Debug\sk\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\Jawad\Desktop\EZClaim\MasterDetailPage\iOS\bin\iPhoneSimulator\Debug\sv\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\Jawad\Desktop\EZClaim\MasterDetailPage\iOS\bin\iPhoneSimulator\Debug\th\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\Jawad\Desktop\EZClaim\MasterDetailPage\iOS\bin\iPhoneSimulator\Debug\tr\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\Jawad\Desktop\EZClaim\MasterDetailPage\iOS\bin\iPhoneSimulator\Debug\uk\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\Jawad\Desktop\EZClaim\MasterDetailPage\iOS\bin\iPhoneSimulator\Debug\vi\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\Jawad\Desktop\EZClaim\MasterDetailPage\iOS\bin\iPhoneSimulator\Debug\zh-Hans\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\Jawad\Desktop\EZClaim\MasterDetailPage\iOS\bin\iPhoneSimulator\Debug\zh-Hant\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\Jawad\Desktop\EZClaim\MasterDetailPage\iOS\bin\iPhoneSimulator\Debug\zh-HK\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\Jawad\Desktop\EZClaim\MasterDetailPage\iOS\obj\iPhoneSimulator\Debug\ibtool\_BundleResourceWithLogicalName.items
+C:\Users\Jawad\Desktop\EZClaim\MasterDetailPage\iOS\obj\iPhoneSimulator\Debug\actool\_PartialAppManifest.items
+C:\Users\Jawad\Desktop\EZClaim\MasterDetailPage\iOS\obj\iPhoneSimulator\Debug\actool\_BundleResourceWithLogicalName.items
+C:\Users\Jawad\Desktop\EZClaim\MasterDetailPage\iOS\obj\iPhoneSimulator\Debug\optimized\
+C:\Users\Jawad\Desktop\EZClaim\MasterDetailPage\iOS\obj\iPhoneSimulator\Debug\MasterDetailPageNavigation.iOS.csprojResolveAssemblyReference.cache
+C:\Users\Jawad\Desktop\EZClaim\MasterDetailPage\iOS\obj\iPhoneSimulator\Debug\MasterDetailPageNavigationiOS.exe
+C:\Users\Jawad\Desktop\EZClaim\MasterDetailPage\iOS\obj\iPhoneSimulator\Debug\MasterDetailPageNavigationiOS.pdb
+C:\Users\Jawad\Desktop\EZClaim\MasterDetailPage\iOS\bin\iPhoneSimulator\Debug\MasterDetailPageNavigation.dll.mdb
+C:\Users\Jawad\Desktop\EZClaim\MasterDetailPage\iOS\obj\iPhoneSimulator\Debug\MasterDetailPageNavigationiOS.exe.mdb
+C:\Users\Jawad\Desktop\EZClaim\MasterDetailPage\iOS\bin\iPhoneSimulator\Debug\MasterDetailPageNavigationiOS.exe.mdb
+H:\Users\Win 7\Desktop\EZClaim\MasterDetailPage\iOS\bin\iPhoneSimulator\Debug\MasterDetailPageNavigationiOS.exe
+H:\Users\Win 7\Desktop\EZClaim\MasterDetailPage\iOS\bin\iPhoneSimulator\Debug\MasterDetailPageNavigationiOS.pdb
+H:\Users\Win 7\Desktop\EZClaim\MasterDetailPage\iOS\bin\iPhoneSimulator\Debug\MasterDetailPageNavigation.dll
+H:\Users\Win 7\Desktop\EZClaim\MasterDetailPage\iOS\bin\iPhoneSimulator\Debug\RestSharp.dll
+H:\Users\Win 7\Desktop\EZClaim\MasterDetailPage\iOS\bin\iPhoneSimulator\Debug\Xamarin.Forms.Core.dll
+H:\Users\Win 7\Desktop\EZClaim\MasterDetailPage\iOS\bin\iPhoneSimulator\Debug\Xamarin.Forms.Platform.dll
+H:\Users\Win 7\Desktop\EZClaim\MasterDetailPage\iOS\bin\iPhoneSimulator\Debug\Xamarin.Forms.Platform.iOS.dll
+H:\Users\Win 7\Desktop\EZClaim\MasterDetailPage\iOS\bin\iPhoneSimulator\Debug\Xamarin.Forms.Xaml.dll
+H:\Users\Win 7\Desktop\EZClaim\MasterDetailPage\iOS\bin\iPhoneSimulator\Debug\Xamarin.Auth.Android.dll
+H:\Users\Win 7\Desktop\EZClaim\MasterDetailPage\iOS\bin\iPhoneSimulator\Debug\MasterDetailPageNavigation.pdb
+H:\Users\Win 7\Desktop\EZClaim\MasterDetailPage\iOS\bin\iPhoneSimulator\Debug\RestSharp.xml
+H:\Users\Win 7\Desktop\EZClaim\MasterDetailPage\iOS\bin\iPhoneSimulator\Debug\Xamarin.Forms.Core.pdb
+H:\Users\Win 7\Desktop\EZClaim\MasterDetailPage\iOS\bin\iPhoneSimulator\Debug\Xamarin.Forms.Core.xml
+H:\Users\Win 7\Desktop\EZClaim\MasterDetailPage\iOS\bin\iPhoneSimulator\Debug\Xamarin.Forms.Core.dll.mdb
+H:\Users\Win 7\Desktop\EZClaim\MasterDetailPage\iOS\bin\iPhoneSimulator\Debug\Xamarin.Forms.Platform.iOS.pdb
+H:\Users\Win 7\Desktop\EZClaim\MasterDetailPage\iOS\bin\iPhoneSimulator\Debug\Xamarin.Forms.Platform.iOS.dll.mdb
+H:\Users\Win 7\Desktop\EZClaim\MasterDetailPage\iOS\bin\iPhoneSimulator\Debug\Xamarin.Forms.Xaml.pdb
+H:\Users\Win 7\Desktop\EZClaim\MasterDetailPage\iOS\bin\iPhoneSimulator\Debug\Xamarin.Forms.Xaml.xml
+H:\Users\Win 7\Desktop\EZClaim\MasterDetailPage\iOS\bin\iPhoneSimulator\Debug\Xamarin.Forms.Xaml.dll.mdb
+H:\Users\Win 7\Desktop\EZClaim\MasterDetailPage\iOS\bin\iPhoneSimulator\Debug\Xamarin.Auth.Android.xml
+H:\Users\Win 7\Desktop\EZClaim\MasterDetailPage\iOS\bin\iPhoneSimulator\Debug\ar\Xamarin.Forms.Platform.iOS.resources.dll
+H:\Users\Win 7\Desktop\EZClaim\MasterDetailPage\iOS\bin\iPhoneSimulator\Debug\ca\Xamarin.Forms.Platform.iOS.resources.dll
+H:\Users\Win 7\Desktop\EZClaim\MasterDetailPage\iOS\bin\iPhoneSimulator\Debug\cs\Xamarin.Forms.Platform.iOS.resources.dll
+H:\Users\Win 7\Desktop\EZClaim\MasterDetailPage\iOS\bin\iPhoneSimulator\Debug\da\Xamarin.Forms.Platform.iOS.resources.dll
+H:\Users\Win 7\Desktop\EZClaim\MasterDetailPage\iOS\bin\iPhoneSimulator\Debug\de\Xamarin.Forms.Platform.iOS.resources.dll
+H:\Users\Win 7\Desktop\EZClaim\MasterDetailPage\iOS\bin\iPhoneSimulator\Debug\el\Xamarin.Forms.Platform.iOS.resources.dll
+H:\Users\Win 7\Desktop\EZClaim\MasterDetailPage\iOS\bin\iPhoneSimulator\Debug\es\Xamarin.Forms.Platform.iOS.resources.dll
+H:\Users\Win 7\Desktop\EZClaim\MasterDetailPage\iOS\bin\iPhoneSimulator\Debug\fi\Xamarin.Forms.Platform.iOS.resources.dll
+H:\Users\Win 7\Desktop\EZClaim\MasterDetailPage\iOS\bin\iPhoneSimulator\Debug\fr\Xamarin.Forms.Platform.iOS.resources.dll
+H:\Users\Win 7\Desktop\EZClaim\MasterDetailPage\iOS\bin\iPhoneSimulator\Debug\he\Xamarin.Forms.Platform.iOS.resources.dll
+H:\Users\Win 7\Desktop\EZClaim\MasterDetailPage\iOS\bin\iPhoneSimulator\Debug\hi\Xamarin.Forms.Platform.iOS.resources.dll
+H:\Users\Win 7\Desktop\EZClaim\MasterDetailPage\iOS\bin\iPhoneSimulator\Debug\hr\Xamarin.Forms.Platform.iOS.resources.dll
+H:\Users\Win 7\Desktop\EZClaim\MasterDetailPage\iOS\bin\iPhoneSimulator\Debug\hu\Xamarin.Forms.Platform.iOS.resources.dll
+H:\Users\Win 7\Desktop\EZClaim\MasterDetailPage\iOS\bin\iPhoneSimulator\Debug\id\Xamarin.Forms.Platform.iOS.resources.dll
+H:\Users\Win 7\Desktop\EZClaim\MasterDetailPage\iOS\bin\iPhoneSimulator\Debug\it\Xamarin.Forms.Platform.iOS.resources.dll
+H:\Users\Win 7\Desktop\EZClaim\MasterDetailPage\iOS\bin\iPhoneSimulator\Debug\ja\Xamarin.Forms.Platform.iOS.resources.dll
+H:\Users\Win 7\Desktop\EZClaim\MasterDetailPage\iOS\bin\iPhoneSimulator\Debug\ko\Xamarin.Forms.Platform.iOS.resources.dll
+H:\Users\Win 7\Desktop\EZClaim\MasterDetailPage\iOS\bin\iPhoneSimulator\Debug\ms\Xamarin.Forms.Platform.iOS.resources.dll
+H:\Users\Win 7\Desktop\EZClaim\MasterDetailPage\iOS\bin\iPhoneSimulator\Debug\nb\Xamarin.Forms.Platform.iOS.resources.dll
+H:\Users\Win 7\Desktop\EZClaim\MasterDetailPage\iOS\bin\iPhoneSimulator\Debug\nl\Xamarin.Forms.Platform.iOS.resources.dll
+H:\Users\Win 7\Desktop\EZClaim\MasterDetailPage\iOS\bin\iPhoneSimulator\Debug\pl\Xamarin.Forms.Platform.iOS.resources.dll
+H:\Users\Win 7\Desktop\EZClaim\MasterDetailPage\iOS\bin\iPhoneSimulator\Debug\pt\Xamarin.Forms.Platform.iOS.resources.dll
+H:\Users\Win 7\Desktop\EZClaim\MasterDetailPage\iOS\bin\iPhoneSimulator\Debug\pt-BR\Xamarin.Forms.Platform.iOS.resources.dll
+H:\Users\Win 7\Desktop\EZClaim\MasterDetailPage\iOS\bin\iPhoneSimulator\Debug\ro\Xamarin.Forms.Platform.iOS.resources.dll
+H:\Users\Win 7\Desktop\EZClaim\MasterDetailPage\iOS\bin\iPhoneSimulator\Debug\ru\Xamarin.Forms.Platform.iOS.resources.dll
+H:\Users\Win 7\Desktop\EZClaim\MasterDetailPage\iOS\bin\iPhoneSimulator\Debug\sk\Xamarin.Forms.Platform.iOS.resources.dll
+H:\Users\Win 7\Desktop\EZClaim\MasterDetailPage\iOS\bin\iPhoneSimulator\Debug\sv\Xamarin.Forms.Platform.iOS.resources.dll
+H:\Users\Win 7\Desktop\EZClaim\MasterDetailPage\iOS\bin\iPhoneSimulator\Debug\th\Xamarin.Forms.Platform.iOS.resources.dll
+H:\Users\Win 7\Desktop\EZClaim\MasterDetailPage\iOS\bin\iPhoneSimulator\Debug\tr\Xamarin.Forms.Platform.iOS.resources.dll
+H:\Users\Win 7\Desktop\EZClaim\MasterDetailPage\iOS\bin\iPhoneSimulator\Debug\uk\Xamarin.Forms.Platform.iOS.resources.dll
+H:\Users\Win 7\Desktop\EZClaim\MasterDetailPage\iOS\bin\iPhoneSimulator\Debug\vi\Xamarin.Forms.Platform.iOS.resources.dll
+H:\Users\Win 7\Desktop\EZClaim\MasterDetailPage\iOS\bin\iPhoneSimulator\Debug\zh-Hans\Xamarin.Forms.Platform.iOS.resources.dll
+H:\Users\Win 7\Desktop\EZClaim\MasterDetailPage\iOS\bin\iPhoneSimulator\Debug\zh-Hant\Xamarin.Forms.Platform.iOS.resources.dll
+H:\Users\Win 7\Desktop\EZClaim\MasterDetailPage\iOS\bin\iPhoneSimulator\Debug\zh-HK\Xamarin.Forms.Platform.iOS.resources.dll
+H:\Users\Win 7\Desktop\EZClaim\MasterDetailPage\iOS\obj\iPhoneSimulator\Debug\ibtool\_BundleResourceWithLogicalName.items
+H:\Users\Win 7\Desktop\EZClaim\MasterDetailPage\iOS\obj\iPhoneSimulator\Debug\actool\_PartialAppManifest.items
+H:\Users\Win 7\Desktop\EZClaim\MasterDetailPage\iOS\obj\iPhoneSimulator\Debug\actool\_BundleResourceWithLogicalName.items
+H:\Users\Win 7\Desktop\EZClaim\MasterDetailPage\iOS\obj\iPhoneSimulator\Debug\optimized\
+H:\Users\Win 7\Desktop\EZClaim\MasterDetailPage\iOS\obj\iPhoneSimulator\Debug\MasterDetailPageNavigation.iOS.csprojResolveAssemblyReference.cache
+H:\Users\Win 7\Desktop\EZClaim\MasterDetailPage\iOS\obj\iPhoneSimulator\Debug\MasterDetailPageNavigationiOS.exe
+H:\Users\Win 7\Desktop\EZClaim\MasterDetailPage\iOS\obj\iPhoneSimulator\Debug\MasterDetailPageNavigationiOS.pdb
+H:\Users\Win 7\Desktop\EZClaim\MasterDetailPage\iOS\obj\iPhoneSimulator\Debug\MasterDetailPageNavigationiOS.exe.mdb
+H:\Users\Win 7\Desktop\EZClaim\MasterDetailPage\iOS\bin\iPhoneSimulator\Debug\MasterDetailPageNavigationiOS.exe.mdb

@@ -1,0 +1,351 @@
+C:\Users\Jawad\Desktop\MasterDetailPage\Droid\bin\Debug\MasterDetailPageNavigation.Droid.dll
+C:\Users\Jawad\Desktop\MasterDetailPage\Droid\bin\Debug\MasterDetailPageNavigation.Droid.pdb
+C:\Users\Jawad\Desktop\MasterDetailPage\Droid\bin\Debug\com.companyname.masterdetailpagenavigation.apk
+C:\Users\Jawad\Desktop\MasterDetailPage\Droid\bin\Debug\com.companyname.masterdetailpagenavigation-Signed.apk
+C:\Users\Jawad\Desktop\MasterDetailPage\Droid\bin\Debug\FormsViewGroup.dll
+C:\Users\Jawad\Desktop\MasterDetailPage\Droid\bin\Debug\MasterDetailPageNavigation.dll
+C:\Users\Jawad\Desktop\MasterDetailPage\Droid\bin\Debug\Xamarin.Android.Support.Animated.Vector.Drawable.dll
+C:\Users\Jawad\Desktop\MasterDetailPage\Droid\bin\Debug\Xamarin.Android.Support.Design.dll
+C:\Users\Jawad\Desktop\MasterDetailPage\Droid\bin\Debug\Xamarin.Android.Support.v4.dll
+C:\Users\Jawad\Desktop\MasterDetailPage\Droid\bin\Debug\Xamarin.Android.Support.v7.AppCompat.dll
+C:\Users\Jawad\Desktop\MasterDetailPage\Droid\bin\Debug\Xamarin.Android.Support.v7.CardView.dll
+C:\Users\Jawad\Desktop\MasterDetailPage\Droid\bin\Debug\Xamarin.Android.Support.v7.MediaRouter.dll
+C:\Users\Jawad\Desktop\MasterDetailPage\Droid\bin\Debug\Xamarin.Android.Support.v7.RecyclerView.dll
+C:\Users\Jawad\Desktop\MasterDetailPage\Droid\bin\Debug\Xamarin.Android.Support.Vector.Drawable.dll
+C:\Users\Jawad\Desktop\MasterDetailPage\Droid\bin\Debug\Xamarin.Forms.Core.dll
+C:\Users\Jawad\Desktop\MasterDetailPage\Droid\bin\Debug\Xamarin.Forms.Platform.Android.dll
+C:\Users\Jawad\Desktop\MasterDetailPage\Droid\bin\Debug\Xamarin.Forms.Platform.dll
+C:\Users\Jawad\Desktop\MasterDetailPage\Droid\bin\Debug\Xamarin.Forms.Xaml.dll
+C:\Users\Jawad\Desktop\MasterDetailPage\Droid\bin\Debug\Xamarin.GooglePlayServices.AppIndexing.dll
+C:\Users\Jawad\Desktop\MasterDetailPage\Droid\bin\Debug\Xamarin.GooglePlayServices.Base.dll
+C:\Users\Jawad\Desktop\MasterDetailPage\Droid\bin\Debug\Xamarin.GooglePlayServices.Basement.dll
+C:\Users\Jawad\Desktop\MasterDetailPage\Droid\bin\Debug\MasterDetailPageNavigation.pdb
+C:\Users\Jawad\Desktop\MasterDetailPage\Droid\bin\Debug\FormsViewGroup.pdb
+C:\Users\Jawad\Desktop\MasterDetailPage\Droid\bin\Debug\FormsViewGroup.dll.mdb
+C:\Users\Jawad\Desktop\MasterDetailPage\Droid\bin\Debug\Xamarin.Forms.Core.pdb
+C:\Users\Jawad\Desktop\MasterDetailPage\Droid\bin\Debug\Xamarin.Forms.Core.xml
+C:\Users\Jawad\Desktop\MasterDetailPage\Droid\bin\Debug\Xamarin.Forms.Core.dll.mdb
+C:\Users\Jawad\Desktop\MasterDetailPage\Droid\bin\Debug\Xamarin.Forms.Platform.Android.pdb
+C:\Users\Jawad\Desktop\MasterDetailPage\Droid\bin\Debug\Xamarin.Forms.Platform.Android.dll.mdb
+C:\Users\Jawad\Desktop\MasterDetailPage\Droid\bin\Debug\Xamarin.Forms.Xaml.pdb
+C:\Users\Jawad\Desktop\MasterDetailPage\Droid\bin\Debug\Xamarin.Forms.Xaml.xml
+C:\Users\Jawad\Desktop\MasterDetailPage\Droid\bin\Debug\Xamarin.Forms.Xaml.dll.mdb
+C:\Users\Jawad\Desktop\MasterDetailPage\Droid\obj\Debug\MasterDetailPageNavigation.Droid.csprojResolveAssemblyReference.cache
+C:\Users\Jawad\Desktop\MasterDetailPage\Droid\obj\Debug\MasterDetailPageNavigation.Droid.dll
+C:\Users\Jawad\Desktop\MasterDetailPage\Droid\obj\Debug\MasterDetailPageNavigation.Droid.pdb
+C:\Users\Jawad\Desktop\MasterDetailPage\Droid\obj\Debug\android\bin\com.companyname.masterdetailpagenavigation.apk
+C:\Users\Jawad\Desktop\MasterDetailPage\Droid\obj\Debug\res\drawable\icon.png
+C:\Users\Jawad\Desktop\MasterDetailPage\Droid\obj\Debug\res\drawable-hdpi\icon.png
+C:\Users\Jawad\Desktop\MasterDetailPage\Droid\obj\Debug\res\drawable-xhdpi\icon.png
+C:\Users\Jawad\Desktop\MasterDetailPage\Droid\obj\Debug\res\drawable-xxhdpi\icon.png
+C:\Users\Jawad\Desktop\MasterDetailPage\Droid\obj\Debug\res\drawable\hamburger.png
+C:\Users\Jawad\Desktop\MasterDetailPage\Droid\obj\Debug\res\drawable\contacts.png
+C:\Users\Jawad\Desktop\MasterDetailPage\Droid\obj\Debug\res\drawable\reminders.png
+C:\Users\Jawad\Desktop\MasterDetailPage\Droid\obj\Debug\res\drawable\todo.png
+C:\Users\Jawad\Desktop\MasterDetailPage\Droid\obj\Debug\R.cs.flag
+C:\Users\Jawad\Desktop\MasterDetailPage\Droid\obj\Debug\uploadflags.txt
+C:\Users\Jawad\Desktop\MasterDetailPage\Droid\bin\Debug\MasterDetailPageNavigation.Droid.dll.mdb
+C:\Users\Jawad\Desktop\MasterDetailPage\Droid\bin\Debug\MasterDetailPageNavigation.dll.mdb
+C:\Users\Jawad\Desktop\MasterDetailPage\Droid\bin\Debug\Java.Interop.dll.mdb
+C:\Users\Jawad\Desktop\MasterDetailPage\Droid\bin\Debug\Mono.Android.dll.mdb
+C:\Users\Jawad\Desktop\MasterDetailPage\Droid\bin\Debug\mscorlib.dll.mdb
+C:\Users\Jawad\Desktop\MasterDetailPage\Droid\bin\Debug\System.ComponentModel.Composition.dll.mdb
+C:\Users\Jawad\Desktop\MasterDetailPage\Droid\bin\Debug\System.Core.dll.mdb
+C:\Users\Jawad\Desktop\MasterDetailPage\Droid\bin\Debug\System.dll.mdb
+C:\Users\Jawad\Desktop\MasterDetailPage\Droid\bin\Debug\System.Net.Http.dll.mdb
+C:\Users\Jawad\Desktop\MasterDetailPage\Droid\bin\Debug\System.Runtime.Serialization.dll.mdb
+C:\Users\Jawad\Desktop\MasterDetailPage\Droid\bin\Debug\System.ServiceModel.Internals.dll.mdb
+C:\Users\Jawad\Desktop\MasterDetailPage\Droid\bin\Debug\System.Xml.dll.mdb
+C:\Users\Jawad\Desktop\MasterDetailPage\Droid\obj\Debug\android\assets\FormsViewGroup.dll.mdb
+C:\Users\Jawad\Desktop\MasterDetailPage\Droid\obj\Debug\android\assets\Java.Interop.dll.mdb
+C:\Users\Jawad\Desktop\MasterDetailPage\Droid\obj\Debug\android\assets\MasterDetailPageNavigation.dll.mdb
+C:\Users\Jawad\Desktop\MasterDetailPage\Droid\obj\Debug\android\assets\MasterDetailPageNavigation.Droid.dll.mdb
+C:\Users\Jawad\Desktop\MasterDetailPage\Droid\obj\Debug\android\assets\Mono.Android.dll.mdb
+C:\Users\Jawad\Desktop\MasterDetailPage\Droid\obj\Debug\android\assets\mscorlib.dll.mdb
+C:\Users\Jawad\Desktop\MasterDetailPage\Droid\obj\Debug\android\assets\System.ComponentModel.Composition.dll.mdb
+C:\Users\Jawad\Desktop\MasterDetailPage\Droid\obj\Debug\android\assets\System.Core.dll.mdb
+C:\Users\Jawad\Desktop\MasterDetailPage\Droid\obj\Debug\android\assets\System.dll.mdb
+C:\Users\Jawad\Desktop\MasterDetailPage\Droid\obj\Debug\android\assets\System.Net.Http.dll.mdb
+C:\Users\Jawad\Desktop\MasterDetailPage\Droid\obj\Debug\android\assets\System.Runtime.Serialization.dll.mdb
+C:\Users\Jawad\Desktop\MasterDetailPage\Droid\obj\Debug\android\assets\System.ServiceModel.Internals.dll.mdb
+C:\Users\Jawad\Desktop\MasterDetailPage\Droid\obj\Debug\android\assets\System.Xml.dll.mdb
+C:\Users\Jawad\Desktop\MasterDetailPage\Droid\obj\Debug\android\assets\Xamarin.Forms.Core.dll.mdb
+C:\Users\Jawad\Desktop\MasterDetailPage\Droid\obj\Debug\android\assets\Xamarin.Forms.Platform.Android.dll.mdb
+C:\Users\Jawad\Desktop\MasterDetailPage\Droid\obj\Debug\android\assets\Xamarin.Forms.Xaml.dll.mdb
+C:\Users\Jawad\Desktop\MasterDetailPage\Droid\obj\Debug\MasterDetailPageNavigation.Droid.dll.mdb
+C:\Users\Jawad\Desktop\EZClaim\MasterDetailPage\Droid\bin\Debug\MasterDetailPageNavigation.Droid.dll
+C:\Users\Jawad\Desktop\EZClaim\MasterDetailPage\Droid\bin\Debug\MasterDetailPageNavigation.Droid.pdb
+C:\Users\Jawad\Desktop\EZClaim\MasterDetailPage\Droid\bin\Debug\com.companyname.masterdetailpagenavigation.apk
+C:\Users\Jawad\Desktop\EZClaim\MasterDetailPage\Droid\bin\Debug\com.companyname.masterdetailpagenavigation-Signed.apk
+C:\Users\Jawad\Desktop\EZClaim\MasterDetailPage\Droid\bin\Debug\FormsViewGroup.dll
+C:\Users\Jawad\Desktop\EZClaim\MasterDetailPage\Droid\bin\Debug\MasterDetailPageNavigation.dll
+C:\Users\Jawad\Desktop\EZClaim\MasterDetailPage\Droid\bin\Debug\Xamarin.Android.Support.Animated.Vector.Drawable.dll
+C:\Users\Jawad\Desktop\EZClaim\MasterDetailPage\Droid\bin\Debug\Xamarin.Android.Support.Design.dll
+C:\Users\Jawad\Desktop\EZClaim\MasterDetailPage\Droid\bin\Debug\Xamarin.Android.Support.v4.dll
+C:\Users\Jawad\Desktop\EZClaim\MasterDetailPage\Droid\bin\Debug\Xamarin.Android.Support.v7.AppCompat.dll
+C:\Users\Jawad\Desktop\EZClaim\MasterDetailPage\Droid\bin\Debug\Xamarin.Android.Support.v7.CardView.dll
+C:\Users\Jawad\Desktop\EZClaim\MasterDetailPage\Droid\bin\Debug\Xamarin.Android.Support.v7.MediaRouter.dll
+C:\Users\Jawad\Desktop\EZClaim\MasterDetailPage\Droid\bin\Debug\Xamarin.Android.Support.v7.RecyclerView.dll
+C:\Users\Jawad\Desktop\EZClaim\MasterDetailPage\Droid\bin\Debug\Xamarin.Android.Support.Vector.Drawable.dll
+C:\Users\Jawad\Desktop\EZClaim\MasterDetailPage\Droid\bin\Debug\Xamarin.Forms.Core.dll
+C:\Users\Jawad\Desktop\EZClaim\MasterDetailPage\Droid\bin\Debug\Xamarin.Forms.Platform.Android.dll
+C:\Users\Jawad\Desktop\EZClaim\MasterDetailPage\Droid\bin\Debug\Xamarin.Forms.Platform.dll
+C:\Users\Jawad\Desktop\EZClaim\MasterDetailPage\Droid\bin\Debug\Xamarin.Forms.Xaml.dll
+C:\Users\Jawad\Desktop\EZClaim\MasterDetailPage\Droid\bin\Debug\Xamarin.GooglePlayServices.AppIndexing.dll
+C:\Users\Jawad\Desktop\EZClaim\MasterDetailPage\Droid\bin\Debug\Xamarin.GooglePlayServices.Base.dll
+C:\Users\Jawad\Desktop\EZClaim\MasterDetailPage\Droid\bin\Debug\Xamarin.GooglePlayServices.Basement.dll
+C:\Users\Jawad\Desktop\EZClaim\MasterDetailPage\Droid\bin\Debug\MasterDetailPageNavigation.pdb
+C:\Users\Jawad\Desktop\EZClaim\MasterDetailPage\Droid\bin\Debug\FormsViewGroup.pdb
+C:\Users\Jawad\Desktop\EZClaim\MasterDetailPage\Droid\bin\Debug\FormsViewGroup.dll.mdb
+C:\Users\Jawad\Desktop\EZClaim\MasterDetailPage\Droid\bin\Debug\Xamarin.Forms.Core.pdb
+C:\Users\Jawad\Desktop\EZClaim\MasterDetailPage\Droid\bin\Debug\Xamarin.Forms.Core.xml
+C:\Users\Jawad\Desktop\EZClaim\MasterDetailPage\Droid\bin\Debug\Xamarin.Forms.Core.dll.mdb
+C:\Users\Jawad\Desktop\EZClaim\MasterDetailPage\Droid\bin\Debug\Xamarin.Forms.Platform.Android.pdb
+C:\Users\Jawad\Desktop\EZClaim\MasterDetailPage\Droid\bin\Debug\Xamarin.Forms.Platform.Android.dll.mdb
+C:\Users\Jawad\Desktop\EZClaim\MasterDetailPage\Droid\bin\Debug\Xamarin.Forms.Xaml.pdb
+C:\Users\Jawad\Desktop\EZClaim\MasterDetailPage\Droid\bin\Debug\Xamarin.Forms.Xaml.xml
+C:\Users\Jawad\Desktop\EZClaim\MasterDetailPage\Droid\bin\Debug\Xamarin.Forms.Xaml.dll.mdb
+C:\Users\Jawad\Desktop\EZClaim\MasterDetailPage\Droid\obj\Debug\MasterDetailPageNavigation.Droid.csprojResolveAssemblyReference.cache
+C:\Users\Jawad\Desktop\EZClaim\MasterDetailPage\Droid\obj\Debug\MasterDetailPageNavigation.Droid.dll
+C:\Users\Jawad\Desktop\EZClaim\MasterDetailPage\Droid\obj\Debug\MasterDetailPageNavigation.Droid.pdb
+C:\Users\Jawad\Desktop\EZClaim\MasterDetailPage\Droid\obj\Debug\android\bin\com.companyname.masterdetailpagenavigation.apk
+C:\Users\Jawad\Desktop\EZClaim\MasterDetailPage\Droid\obj\Debug\res\drawable\icon.png
+C:\Users\Jawad\Desktop\EZClaim\MasterDetailPage\Droid\obj\Debug\res\drawable-hdpi\icon.png
+C:\Users\Jawad\Desktop\EZClaim\MasterDetailPage\Droid\obj\Debug\res\drawable-xhdpi\icon.png
+C:\Users\Jawad\Desktop\EZClaim\MasterDetailPage\Droid\obj\Debug\res\drawable-xxhdpi\icon.png
+C:\Users\Jawad\Desktop\EZClaim\MasterDetailPage\Droid\obj\Debug\res\drawable\hamburger.png
+C:\Users\Jawad\Desktop\EZClaim\MasterDetailPage\Droid\obj\Debug\res\drawable\call.png
+C:\Users\Jawad\Desktop\EZClaim\MasterDetailPage\Droid\obj\Debug\res\drawable\car.png
+C:\Users\Jawad\Desktop\EZClaim\MasterDetailPage\Droid\obj\Debug\res\drawable\home.png
+C:\Users\Jawad\Desktop\EZClaim\MasterDetailPage\Droid\obj\Debug\res\drawable\info.png
+C:\Users\Jawad\Desktop\EZClaim\MasterDetailPage\Droid\obj\Debug\res\drawable\settings.png
+C:\Users\Jawad\Desktop\EZClaim\MasterDetailPage\Droid\obj\Debug\res\drawable\users.png
+C:\Users\Jawad\Desktop\EZClaim\MasterDetailPage\Droid\obj\Debug\R.cs.flag
+C:\Users\Jawad\Desktop\EZClaim\MasterDetailPage\Droid\obj\Debug\uploadflags.txt
+C:\Users\Jawad\Desktop\EZClaim\MasterDetailPage\Droid\bin\Debug\MasterDetailPageNavigation.Droid.dll.mdb
+C:\Users\Jawad\Desktop\EZClaim\MasterDetailPage\Droid\bin\Debug\MasterDetailPageNavigation.dll.mdb
+C:\Users\Jawad\Desktop\EZClaim\MasterDetailPage\Droid\bin\Debug\Java.Interop.dll.mdb
+C:\Users\Jawad\Desktop\EZClaim\MasterDetailPage\Droid\bin\Debug\Mono.Android.dll.mdb
+C:\Users\Jawad\Desktop\EZClaim\MasterDetailPage\Droid\bin\Debug\mscorlib.dll.mdb
+C:\Users\Jawad\Desktop\EZClaim\MasterDetailPage\Droid\bin\Debug\System.ComponentModel.Composition.dll.mdb
+C:\Users\Jawad\Desktop\EZClaim\MasterDetailPage\Droid\bin\Debug\System.Core.dll.mdb
+C:\Users\Jawad\Desktop\EZClaim\MasterDetailPage\Droid\bin\Debug\System.dll.mdb
+C:\Users\Jawad\Desktop\EZClaim\MasterDetailPage\Droid\bin\Debug\System.Net.Http.dll.mdb
+C:\Users\Jawad\Desktop\EZClaim\MasterDetailPage\Droid\bin\Debug\System.Runtime.Serialization.dll.mdb
+C:\Users\Jawad\Desktop\EZClaim\MasterDetailPage\Droid\bin\Debug\System.ServiceModel.Internals.dll.mdb
+C:\Users\Jawad\Desktop\EZClaim\MasterDetailPage\Droid\bin\Debug\System.Xml.dll.mdb
+C:\Users\Jawad\Desktop\EZClaim\MasterDetailPage\Droid\obj\Debug\android\assets\FormsViewGroup.dll.mdb
+C:\Users\Jawad\Desktop\EZClaim\MasterDetailPage\Droid\obj\Debug\android\assets\Java.Interop.dll.mdb
+C:\Users\Jawad\Desktop\EZClaim\MasterDetailPage\Droid\obj\Debug\android\assets\MasterDetailPageNavigation.dll.mdb
+C:\Users\Jawad\Desktop\EZClaim\MasterDetailPage\Droid\obj\Debug\android\assets\MasterDetailPageNavigation.Droid.dll.mdb
+C:\Users\Jawad\Desktop\EZClaim\MasterDetailPage\Droid\obj\Debug\android\assets\Mono.Android.dll.mdb
+C:\Users\Jawad\Desktop\EZClaim\MasterDetailPage\Droid\obj\Debug\android\assets\mscorlib.dll.mdb
+C:\Users\Jawad\Desktop\EZClaim\MasterDetailPage\Droid\obj\Debug\android\assets\System.ComponentModel.Composition.dll.mdb
+C:\Users\Jawad\Desktop\EZClaim\MasterDetailPage\Droid\obj\Debug\android\assets\System.Core.dll.mdb
+C:\Users\Jawad\Desktop\EZClaim\MasterDetailPage\Droid\obj\Debug\android\assets\System.dll.mdb
+C:\Users\Jawad\Desktop\EZClaim\MasterDetailPage\Droid\obj\Debug\android\assets\System.Net.Http.dll.mdb
+C:\Users\Jawad\Desktop\EZClaim\MasterDetailPage\Droid\obj\Debug\android\assets\System.Runtime.Serialization.dll.mdb
+C:\Users\Jawad\Desktop\EZClaim\MasterDetailPage\Droid\obj\Debug\android\assets\System.ServiceModel.Internals.dll.mdb
+C:\Users\Jawad\Desktop\EZClaim\MasterDetailPage\Droid\obj\Debug\android\assets\System.Xml.dll.mdb
+C:\Users\Jawad\Desktop\EZClaim\MasterDetailPage\Droid\obj\Debug\android\assets\Xamarin.Forms.Core.dll.mdb
+C:\Users\Jawad\Desktop\EZClaim\MasterDetailPage\Droid\obj\Debug\android\assets\Xamarin.Forms.Platform.Android.dll.mdb
+C:\Users\Jawad\Desktop\EZClaim\MasterDetailPage\Droid\obj\Debug\android\assets\Xamarin.Forms.Xaml.dll.mdb
+C:\Users\Jawad\Desktop\EZClaim\MasterDetailPage\Droid\obj\Debug\MasterDetailPageNavigation.Droid.dll.mdb
+D:\EZClaim\MasterDetailPage\Droid\bin\Debug\MasterDetailPageNavigation.Droid.dll
+D:\EZClaim\MasterDetailPage\Droid\bin\Debug\MasterDetailPageNavigation.Droid.pdb
+D:\EZClaim\MasterDetailPage\Droid\bin\Debug\com.companyname.masterdetailpagenavigation.apk
+D:\EZClaim\MasterDetailPage\Droid\bin\Debug\com.companyname.masterdetailpagenavigation-Signed.apk
+D:\EZClaim\MasterDetailPage\Droid\bin\Debug\FormsViewGroup.dll
+D:\EZClaim\MasterDetailPage\Droid\bin\Debug\MasterDetailPageNavigation.dll
+D:\EZClaim\MasterDetailPage\Droid\bin\Debug\Xamarin.Android.Support.Animated.Vector.Drawable.dll
+D:\EZClaim\MasterDetailPage\Droid\bin\Debug\Xamarin.Android.Support.Design.dll
+D:\EZClaim\MasterDetailPage\Droid\bin\Debug\Xamarin.Android.Support.v4.dll
+D:\EZClaim\MasterDetailPage\Droid\bin\Debug\Xamarin.Android.Support.v7.AppCompat.dll
+D:\EZClaim\MasterDetailPage\Droid\bin\Debug\Xamarin.Android.Support.v7.CardView.dll
+D:\EZClaim\MasterDetailPage\Droid\bin\Debug\Xamarin.Android.Support.v7.MediaRouter.dll
+D:\EZClaim\MasterDetailPage\Droid\bin\Debug\Xamarin.Android.Support.v7.RecyclerView.dll
+D:\EZClaim\MasterDetailPage\Droid\bin\Debug\Xamarin.Android.Support.Vector.Drawable.dll
+D:\EZClaim\MasterDetailPage\Droid\bin\Debug\Xamarin.Forms.Core.dll
+D:\EZClaim\MasterDetailPage\Droid\bin\Debug\Xamarin.Forms.Platform.Android.dll
+D:\EZClaim\MasterDetailPage\Droid\bin\Debug\Xamarin.Forms.Platform.dll
+D:\EZClaim\MasterDetailPage\Droid\bin\Debug\Xamarin.Forms.Xaml.dll
+D:\EZClaim\MasterDetailPage\Droid\bin\Debug\Xamarin.GooglePlayServices.AppIndexing.dll
+D:\EZClaim\MasterDetailPage\Droid\bin\Debug\Xamarin.GooglePlayServices.Base.dll
+D:\EZClaim\MasterDetailPage\Droid\bin\Debug\Xamarin.GooglePlayServices.Basement.dll
+D:\EZClaim\MasterDetailPage\Droid\bin\Debug\MasterDetailPageNavigation.pdb
+D:\EZClaim\MasterDetailPage\Droid\bin\Debug\MasterDetailPageNavigation.dll.mdb
+D:\EZClaim\MasterDetailPage\Droid\bin\Debug\FormsViewGroup.pdb
+D:\EZClaim\MasterDetailPage\Droid\bin\Debug\FormsViewGroup.dll.mdb
+D:\EZClaim\MasterDetailPage\Droid\bin\Debug\Xamarin.Forms.Core.pdb
+D:\EZClaim\MasterDetailPage\Droid\bin\Debug\Xamarin.Forms.Core.xml
+D:\EZClaim\MasterDetailPage\Droid\bin\Debug\Xamarin.Forms.Core.dll.mdb
+D:\EZClaim\MasterDetailPage\Droid\bin\Debug\Xamarin.Forms.Platform.Android.pdb
+D:\EZClaim\MasterDetailPage\Droid\bin\Debug\Xamarin.Forms.Platform.Android.dll.mdb
+D:\EZClaim\MasterDetailPage\Droid\bin\Debug\Xamarin.Forms.Xaml.pdb
+D:\EZClaim\MasterDetailPage\Droid\bin\Debug\Xamarin.Forms.Xaml.xml
+D:\EZClaim\MasterDetailPage\Droid\bin\Debug\Xamarin.Forms.Xaml.dll.mdb
+D:\EZClaim\MasterDetailPage\Droid\obj\Debug\MasterDetailPageNavigation.Droid.csprojResolveAssemblyReference.cache
+D:\EZClaim\MasterDetailPage\Droid\obj\Debug\MasterDetailPageNavigation.Droid.dll
+D:\EZClaim\MasterDetailPage\Droid\obj\Debug\MasterDetailPageNavigation.Droid.pdb
+D:\EZClaim\MasterDetailPage\Droid\obj\Debug\android\bin\com.companyname.masterdetailpagenavigation.apk
+D:\EZClaim\MasterDetailPage\Droid\obj\Debug\res\drawable\icon.png
+D:\EZClaim\MasterDetailPage\Droid\obj\Debug\res\drawable-hdpi\icon.png
+D:\EZClaim\MasterDetailPage\Droid\obj\Debug\res\drawable-xhdpi\icon.png
+D:\EZClaim\MasterDetailPage\Droid\obj\Debug\res\drawable-xxhdpi\icon.png
+D:\EZClaim\MasterDetailPage\Droid\obj\Debug\res\drawable\hamburger.png
+D:\EZClaim\MasterDetailPage\Droid\obj\Debug\res\drawable\call.png
+D:\EZClaim\MasterDetailPage\Droid\obj\Debug\res\drawable\car.png
+D:\EZClaim\MasterDetailPage\Droid\obj\Debug\res\drawable\home.png
+D:\EZClaim\MasterDetailPage\Droid\obj\Debug\res\drawable\info.png
+D:\EZClaim\MasterDetailPage\Droid\obj\Debug\res\drawable\settings.png
+D:\EZClaim\MasterDetailPage\Droid\obj\Debug\res\drawable\users.png
+D:\EZClaim\MasterDetailPage\Droid\obj\Debug\R.cs.flag
+D:\EZClaim\MasterDetailPage\Droid\obj\Debug\uploadflags.txt
+D:\EZClaim\MasterDetailPage\Droid\bin\Debug\Java.Interop.dll.mdb
+D:\EZClaim\MasterDetailPage\Droid\bin\Debug\MasterDetailPageNavigation.Droid.dll.mdb
+D:\EZClaim\MasterDetailPage\Droid\bin\Debug\Mono.Android.dll.mdb
+D:\EZClaim\MasterDetailPage\Droid\bin\Debug\mscorlib.dll.mdb
+D:\EZClaim\MasterDetailPage\Droid\bin\Debug\System.ComponentModel.Composition.dll.mdb
+D:\EZClaim\MasterDetailPage\Droid\bin\Debug\System.Core.dll.mdb
+D:\EZClaim\MasterDetailPage\Droid\bin\Debug\System.dll.mdb
+D:\EZClaim\MasterDetailPage\Droid\bin\Debug\System.Net.Http.dll.mdb
+D:\EZClaim\MasterDetailPage\Droid\bin\Debug\System.Runtime.Serialization.dll.mdb
+D:\EZClaim\MasterDetailPage\Droid\bin\Debug\System.ServiceModel.Internals.dll.mdb
+D:\EZClaim\MasterDetailPage\Droid\bin\Debug\System.Xml.dll.mdb
+D:\EZClaim\MasterDetailPage\Droid\obj\Debug\android\assets\FormsViewGroup.dll.mdb
+D:\EZClaim\MasterDetailPage\Droid\obj\Debug\android\assets\Java.Interop.dll.mdb
+D:\EZClaim\MasterDetailPage\Droid\obj\Debug\android\assets\MasterDetailPageNavigation.dll.mdb
+D:\EZClaim\MasterDetailPage\Droid\obj\Debug\android\assets\MasterDetailPageNavigation.Droid.dll.mdb
+D:\EZClaim\MasterDetailPage\Droid\obj\Debug\android\assets\Mono.Android.dll.mdb
+D:\EZClaim\MasterDetailPage\Droid\obj\Debug\android\assets\mscorlib.dll.mdb
+D:\EZClaim\MasterDetailPage\Droid\obj\Debug\android\assets\System.ComponentModel.Composition.dll.mdb
+D:\EZClaim\MasterDetailPage\Droid\obj\Debug\android\assets\System.Core.dll.mdb
+D:\EZClaim\MasterDetailPage\Droid\obj\Debug\android\assets\System.dll.mdb
+D:\EZClaim\MasterDetailPage\Droid\obj\Debug\android\assets\System.Net.Http.dll.mdb
+D:\EZClaim\MasterDetailPage\Droid\obj\Debug\android\assets\System.Runtime.Serialization.dll.mdb
+D:\EZClaim\MasterDetailPage\Droid\obj\Debug\android\assets\System.ServiceModel.Internals.dll.mdb
+D:\EZClaim\MasterDetailPage\Droid\obj\Debug\android\assets\System.Xml.dll.mdb
+D:\EZClaim\MasterDetailPage\Droid\obj\Debug\android\assets\Xamarin.Forms.Core.dll.mdb
+D:\EZClaim\MasterDetailPage\Droid\obj\Debug\android\assets\Xamarin.Forms.Platform.Android.dll.mdb
+D:\EZClaim\MasterDetailPage\Droid\obj\Debug\android\assets\Xamarin.Forms.Xaml.dll.mdb
+D:\EZClaim\MasterDetailPage\Droid\obj\Debug\MasterDetailPageNavigation.Droid.dll.mdb
+H:\Users\Win 7\Desktop\EZClaim\MasterDetailPage\Droid\obj\Debug\MasterDetailPageNavigation.Droid.csprojResolveAssemblyReference.cache
+H:\Users\Win 7\Desktop\EZClaim\MasterDetailPage\Droid\obj\Debug\XbdMerge\Xamarin.Android.Support.Compat.dll.stamp
+H:\Users\Win 7\Desktop\EZClaim\MasterDetailPage\Droid\obj\Debug\XbdMerge\Xamarin.Android.Support.Core.UI.dll.stamp
+H:\Users\Win 7\Desktop\EZClaim\MasterDetailPage\Droid\obj\Debug\XbdMerge\Xamarin.Android.Support.Core.Utils.dll.stamp
+H:\Users\Win 7\Desktop\EZClaim\MasterDetailPage\Droid\obj\Debug\XbdMerge\Xamarin.Android.Support.Media.Compat.dll.stamp
+H:\Users\Win 7\Desktop\EZClaim\MasterDetailPage\Droid\obj\Debug\XbdMerge\Xamarin.Android.Support.Fragment.dll.stamp
+H:\Users\Win 7\Desktop\EZClaim\MasterDetailPage\Droid\obj\Debug\XbdMerge\Xamarin.Android.Support.Transition.dll.stamp
+H:\Users\Win 7\Desktop\EZClaim\MasterDetailPage\Droid\obj\Debug\XbdMerge\Xamarin.Android.Support.v4.dll.stamp
+H:\Users\Win 7\Desktop\EZClaim\MasterDetailPage\Droid\obj\Debug\XbdMerge\Xamarin.Android.Support.v7.CardView.dll.stamp
+H:\Users\Win 7\Desktop\EZClaim\MasterDetailPage\Droid\obj\Debug\XbdMerge\Xamarin.Android.Support.v7.Palette.dll.stamp
+H:\Users\Win 7\Desktop\EZClaim\MasterDetailPage\Droid\obj\Debug\XbdMerge\Xamarin.Android.Support.v7.RecyclerView.dll.stamp
+H:\Users\Win 7\Desktop\EZClaim\MasterDetailPage\Droid\obj\Debug\XbdMerge\Xamarin.Android.Support.Vector.Drawable.dll.stamp
+H:\Users\Win 7\Desktop\EZClaim\MasterDetailPage\Droid\obj\Debug\XbdMerge\Xamarin.Android.Support.Animated.Vector.Drawable.dll.stamp
+H:\Users\Win 7\Desktop\EZClaim\MasterDetailPage\Droid\obj\Debug\XbdMerge\Xamarin.Android.Support.v7.AppCompat.dll.stamp
+H:\Users\Win 7\Desktop\EZClaim\MasterDetailPage\Droid\obj\Debug\XbdMerge\Xamarin.Android.Support.Design.dll.stamp
+H:\Users\Win 7\Desktop\EZClaim\MasterDetailPage\Droid\obj\Debug\XbdMerge\Xamarin.Android.Support.v7.MediaRouter.dll.stamp
+H:\Users\Win 7\Desktop\EZClaim\MasterDetailPage\Droid\obj\Debug\XbdMerge\Xamarin.GooglePlayServices.Basement.dll.stamp
+H:\Users\Win 7\Desktop\EZClaim\MasterDetailPage\Droid\obj\Debug\XbdMerge\Xamarin.GooglePlayServices.Tasks.dll.stamp
+H:\Users\Win 7\Desktop\EZClaim\MasterDetailPage\Droid\obj\Debug\XbdMerge\Xamarin.GooglePlayServices.Base.dll.stamp
+H:\Users\Win 7\Desktop\EZClaim\MasterDetailPage\Droid\bin\Debug\MasterDetailPageNavigation.Droid.dll
+H:\Users\Win 7\Desktop\EZClaim\MasterDetailPage\Droid\bin\Debug\MasterDetailPageNavigation.Droid.pdb
+H:\Users\Win 7\Desktop\EZClaim\MasterDetailPage\Droid\bin\Debug\com.ezclaim.apk
+H:\Users\Win 7\Desktop\EZClaim\MasterDetailPage\Droid\bin\Debug\com.ezclaim-Signed.apk
+H:\Users\Win 7\Desktop\EZClaim\MasterDetailPage\Droid\bin\Debug\FormsViewGroup.dll
+H:\Users\Win 7\Desktop\EZClaim\MasterDetailPage\Droid\bin\Debug\MasterDetailPageNavigation.dll
+H:\Users\Win 7\Desktop\EZClaim\MasterDetailPage\Droid\bin\Debug\RestSharp.dll
+H:\Users\Win 7\Desktop\EZClaim\MasterDetailPage\Droid\bin\Debug\Xamarin.Android.Support.Animated.Vector.Drawable.dll
+H:\Users\Win 7\Desktop\EZClaim\MasterDetailPage\Droid\bin\Debug\Xamarin.Android.Support.Compat.dll
+H:\Users\Win 7\Desktop\EZClaim\MasterDetailPage\Droid\bin\Debug\Xamarin.Android.Support.Core.UI.dll
+H:\Users\Win 7\Desktop\EZClaim\MasterDetailPage\Droid\bin\Debug\Xamarin.Android.Support.Core.Utils.dll
+H:\Users\Win 7\Desktop\EZClaim\MasterDetailPage\Droid\bin\Debug\Xamarin.Android.Support.Design.dll
+H:\Users\Win 7\Desktop\EZClaim\MasterDetailPage\Droid\bin\Debug\Xamarin.Android.Support.Fragment.dll
+H:\Users\Win 7\Desktop\EZClaim\MasterDetailPage\Droid\bin\Debug\Xamarin.Android.Support.Media.Compat.dll
+H:\Users\Win 7\Desktop\EZClaim\MasterDetailPage\Droid\bin\Debug\Xamarin.Android.Support.Transition.dll
+H:\Users\Win 7\Desktop\EZClaim\MasterDetailPage\Droid\bin\Debug\Xamarin.Android.Support.v4.dll
+H:\Users\Win 7\Desktop\EZClaim\MasterDetailPage\Droid\bin\Debug\Xamarin.Android.Support.v7.AppCompat.dll
+H:\Users\Win 7\Desktop\EZClaim\MasterDetailPage\Droid\bin\Debug\Xamarin.Android.Support.v7.CardView.dll
+H:\Users\Win 7\Desktop\EZClaim\MasterDetailPage\Droid\bin\Debug\Xamarin.Android.Support.v7.MediaRouter.dll
+H:\Users\Win 7\Desktop\EZClaim\MasterDetailPage\Droid\bin\Debug\Xamarin.Android.Support.v7.Palette.dll
+H:\Users\Win 7\Desktop\EZClaim\MasterDetailPage\Droid\bin\Debug\Xamarin.Android.Support.v7.RecyclerView.dll
+H:\Users\Win 7\Desktop\EZClaim\MasterDetailPage\Droid\bin\Debug\Xamarin.Android.Support.Vector.Drawable.dll
+H:\Users\Win 7\Desktop\EZClaim\MasterDetailPage\Droid\bin\Debug\Xamarin.Auth.Android.dll
+H:\Users\Win 7\Desktop\EZClaim\MasterDetailPage\Droid\bin\Debug\Xamarin.Forms.Core.dll
+H:\Users\Win 7\Desktop\EZClaim\MasterDetailPage\Droid\bin\Debug\Xamarin.Forms.Platform.Android.dll
+H:\Users\Win 7\Desktop\EZClaim\MasterDetailPage\Droid\bin\Debug\Xamarin.Forms.Platform.dll
+H:\Users\Win 7\Desktop\EZClaim\MasterDetailPage\Droid\bin\Debug\Xamarin.Forms.Xaml.dll
+H:\Users\Win 7\Desktop\EZClaim\MasterDetailPage\Droid\bin\Debug\Xamarin.GooglePlayServices.AppIndexing.dll
+H:\Users\Win 7\Desktop\EZClaim\MasterDetailPage\Droid\bin\Debug\Xamarin.GooglePlayServices.Base.dll
+H:\Users\Win 7\Desktop\EZClaim\MasterDetailPage\Droid\bin\Debug\Xamarin.GooglePlayServices.Basement.dll
+H:\Users\Win 7\Desktop\EZClaim\MasterDetailPage\Droid\bin\Debug\Xamarin.GooglePlayServices.Tasks.dll
+H:\Users\Win 7\Desktop\EZClaim\MasterDetailPage\Droid\bin\Debug\MasterDetailPageNavigation.pdb
+H:\Users\Win 7\Desktop\EZClaim\MasterDetailPage\Droid\bin\Debug\MasterDetailPageNavigation.dll.mdb
+H:\Users\Win 7\Desktop\EZClaim\MasterDetailPage\Droid\bin\Debug\FormsViewGroup.pdb
+H:\Users\Win 7\Desktop\EZClaim\MasterDetailPage\Droid\bin\Debug\FormsViewGroup.dll.mdb
+H:\Users\Win 7\Desktop\EZClaim\MasterDetailPage\Droid\bin\Debug\RestSharp.xml
+H:\Users\Win 7\Desktop\EZClaim\MasterDetailPage\Droid\bin\Debug\Xamarin.Auth.Android.xml
+H:\Users\Win 7\Desktop\EZClaim\MasterDetailPage\Droid\bin\Debug\Xamarin.Forms.Core.pdb
+H:\Users\Win 7\Desktop\EZClaim\MasterDetailPage\Droid\bin\Debug\Xamarin.Forms.Core.xml
+H:\Users\Win 7\Desktop\EZClaim\MasterDetailPage\Droid\bin\Debug\Xamarin.Forms.Core.dll.mdb
+H:\Users\Win 7\Desktop\EZClaim\MasterDetailPage\Droid\bin\Debug\Xamarin.Forms.Platform.Android.pdb
+H:\Users\Win 7\Desktop\EZClaim\MasterDetailPage\Droid\bin\Debug\Xamarin.Forms.Platform.Android.dll.mdb
+H:\Users\Win 7\Desktop\EZClaim\MasterDetailPage\Droid\bin\Debug\Xamarin.Forms.Xaml.pdb
+H:\Users\Win 7\Desktop\EZClaim\MasterDetailPage\Droid\bin\Debug\Xamarin.Forms.Xaml.xml
+H:\Users\Win 7\Desktop\EZClaim\MasterDetailPage\Droid\bin\Debug\Xamarin.Forms.Xaml.dll.mdb
+H:\Users\Win 7\Desktop\EZClaim\MasterDetailPage\Droid\obj\Debug\MasterDetailPageNavigation.Droid.dll
+H:\Users\Win 7\Desktop\EZClaim\MasterDetailPage\Droid\obj\Debug\MasterDetailPageNavigation.Droid.pdb
+H:\Users\Win 7\Desktop\EZClaim\MasterDetailPage\Droid\obj\Debug\android\bin\com.ezclaim.apk
+H:\Users\Win 7\Desktop\EZClaim\MasterDetailPage\Droid\obj\Debug\res\drawable\icon.png
+H:\Users\Win 7\Desktop\EZClaim\MasterDetailPage\Droid\obj\Debug\res\drawable-hdpi\icon.png
+H:\Users\Win 7\Desktop\EZClaim\MasterDetailPage\Droid\obj\Debug\res\drawable-xhdpi\icon.png
+H:\Users\Win 7\Desktop\EZClaim\MasterDetailPage\Droid\obj\Debug\res\drawable-xxhdpi\icon.png
+H:\Users\Win 7\Desktop\EZClaim\MasterDetailPage\Droid\obj\Debug\res\drawable\hamburger.png
+H:\Users\Win 7\Desktop\EZClaim\MasterDetailPage\Droid\obj\Debug\res\drawable\call.png
+H:\Users\Win 7\Desktop\EZClaim\MasterDetailPage\Droid\obj\Debug\res\drawable\car.png
+H:\Users\Win 7\Desktop\EZClaim\MasterDetailPage\Droid\obj\Debug\res\drawable\home.png
+H:\Users\Win 7\Desktop\EZClaim\MasterDetailPage\Droid\obj\Debug\res\drawable\info.png
+H:\Users\Win 7\Desktop\EZClaim\MasterDetailPage\Droid\obj\Debug\res\drawable\settings.png
+H:\Users\Win 7\Desktop\EZClaim\MasterDetailPage\Droid\obj\Debug\res\drawable\users.png
+H:\Users\Win 7\Desktop\EZClaim\MasterDetailPage\Droid\obj\Debug\res\drawable\phonecall.png
+H:\Users\Win 7\Desktop\EZClaim\MasterDetailPage\Droid\obj\Debug\res\drawable\transparent.png
+H:\Users\Win 7\Desktop\EZClaim\MasterDetailPage\Droid\obj\Debug\res\drawable-hdpi\transparent.png
+H:\Users\Win 7\Desktop\EZClaim\MasterDetailPage\Droid\obj\Debug\res\drawable-xhdpi\transparent.png
+H:\Users\Win 7\Desktop\EZClaim\MasterDetailPage\Droid\obj\Debug\res\drawable-xxhdpi\transparent.png
+H:\Users\Win 7\Desktop\EZClaim\MasterDetailPage\Droid\obj\Debug\res\drawable\facebook.png
+H:\Users\Win 7\Desktop\EZClaim\MasterDetailPage\Droid\obj\Debug\res\drawable\google.png
+H:\Users\Win 7\Desktop\EZClaim\MasterDetailPage\Droid\obj\Debug\R.cs.flag
+H:\Users\Win 7\Desktop\EZClaim\MasterDetailPage\Droid\obj\Debug\uploadflags.txt
+H:\Users\Win 7\Desktop\EZClaim\MasterDetailPage\Droid\bin\Debug\MasterDetailPageNavigation.Droid.dll.mdb
+H:\Users\Win 7\Desktop\EZClaim\MasterDetailPage\Droid\bin\Debug\Java.Interop.dll.mdb
+H:\Users\Win 7\Desktop\EZClaim\MasterDetailPage\Droid\bin\Debug\Mono.Android.dll.mdb
+H:\Users\Win 7\Desktop\EZClaim\MasterDetailPage\Droid\bin\Debug\mscorlib.dll.mdb
+H:\Users\Win 7\Desktop\EZClaim\MasterDetailPage\Droid\bin\Debug\System.ComponentModel.Composition.dll.mdb
+H:\Users\Win 7\Desktop\EZClaim\MasterDetailPage\Droid\bin\Debug\System.Core.dll.mdb
+H:\Users\Win 7\Desktop\EZClaim\MasterDetailPage\Droid\bin\Debug\System.dll.mdb
+H:\Users\Win 7\Desktop\EZClaim\MasterDetailPage\Droid\bin\Debug\System.Json.dll.mdb
+H:\Users\Win 7\Desktop\EZClaim\MasterDetailPage\Droid\bin\Debug\System.Net.Http.dll.mdb
+H:\Users\Win 7\Desktop\EZClaim\MasterDetailPage\Droid\bin\Debug\System.Runtime.Serialization.dll.mdb
+H:\Users\Win 7\Desktop\EZClaim\MasterDetailPage\Droid\bin\Debug\System.ServiceModel.Internals.dll.mdb
+H:\Users\Win 7\Desktop\EZClaim\MasterDetailPage\Droid\bin\Debug\System.Xml.dll.mdb
+H:\Users\Win 7\Desktop\EZClaim\MasterDetailPage\Droid\bin\Debug\System.Xml.Linq.dll.mdb
+H:\Users\Win 7\Desktop\EZClaim\MasterDetailPage\Droid\obj\Debug\android\assets\FormsViewGroup.dll.mdb
+H:\Users\Win 7\Desktop\EZClaim\MasterDetailPage\Droid\obj\Debug\android\assets\Java.Interop.dll.mdb
+H:\Users\Win 7\Desktop\EZClaim\MasterDetailPage\Droid\obj\Debug\android\assets\MasterDetailPageNavigation.dll.mdb
+H:\Users\Win 7\Desktop\EZClaim\MasterDetailPage\Droid\obj\Debug\android\assets\MasterDetailPageNavigation.Droid.dll.mdb
+H:\Users\Win 7\Desktop\EZClaim\MasterDetailPage\Droid\obj\Debug\android\assets\Mono.Android.dll.mdb
+H:\Users\Win 7\Desktop\EZClaim\MasterDetailPage\Droid\obj\Debug\android\assets\mscorlib.dll.mdb
+H:\Users\Win 7\Desktop\EZClaim\MasterDetailPage\Droid\obj\Debug\android\assets\System.ComponentModel.Composition.dll.mdb
+H:\Users\Win 7\Desktop\EZClaim\MasterDetailPage\Droid\obj\Debug\android\assets\System.Core.dll.mdb
+H:\Users\Win 7\Desktop\EZClaim\MasterDetailPage\Droid\obj\Debug\android\assets\System.dll.mdb
+H:\Users\Win 7\Desktop\EZClaim\MasterDetailPage\Droid\obj\Debug\android\assets\System.Json.dll.mdb
+H:\Users\Win 7\Desktop\EZClaim\MasterDetailPage\Droid\obj\Debug\android\assets\System.Net.Http.dll.mdb
+H:\Users\Win 7\Desktop\EZClaim\MasterDetailPage\Droid\obj\Debug\android\assets\System.Runtime.Serialization.dll.mdb
+H:\Users\Win 7\Desktop\EZClaim\MasterDetailPage\Droid\obj\Debug\android\assets\System.ServiceModel.Internals.dll.mdb
+H:\Users\Win 7\Desktop\EZClaim\MasterDetailPage\Droid\obj\Debug\android\assets\System.Xml.dll.mdb
+H:\Users\Win 7\Desktop\EZClaim\MasterDetailPage\Droid\obj\Debug\android\assets\System.Xml.Linq.dll.mdb
+H:\Users\Win 7\Desktop\EZClaim\MasterDetailPage\Droid\obj\Debug\android\assets\Xamarin.Forms.Core.dll.mdb
+H:\Users\Win 7\Desktop\EZClaim\MasterDetailPage\Droid\obj\Debug\android\assets\Xamarin.Forms.Platform.Android.dll.mdb
+H:\Users\Win 7\Desktop\EZClaim\MasterDetailPage\Droid\obj\Debug\android\assets\Xamarin.Forms.Xaml.dll.mdb
+H:\Users\Win 7\Desktop\EZClaim\MasterDetailPage\Droid\obj\Debug\MasterDetailPageNavigation.Droid.dll.mdb
+H:\Users\Win 7\Desktop\EZClaim\MasterDetailPage\Droid\bin\Debug\MasterDetailPageNavigation.Droid.dll.mdb

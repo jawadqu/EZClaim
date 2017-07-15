@@ -7,7 +7,7 @@ using Android.Runtime;
 using Android.Views;
 using Android.Widget;
 using Android.OS;
-//using UIKit;
+using UIKit;
 using Android.Support.V7.App;
 
 namespace EZClaim.Droid

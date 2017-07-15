@@ -1,0 +1,100 @@
+C:\Users\Jawad\Desktop\MasterDetailPage\MasterDetailPageNavigation\bin\Debug\MasterDetailPageNavigation.dll
+C:\Users\Jawad\Desktop\MasterDetailPage\MasterDetailPageNavigation\bin\Debug\MasterDetailPageNavigation.pdb
+C:\Users\Jawad\Desktop\MasterDetailPage\MasterDetailPageNavigation\bin\Debug\Xamarin.Forms.Core.dll
+C:\Users\Jawad\Desktop\MasterDetailPage\MasterDetailPageNavigation\bin\Debug\Xamarin.Forms.Platform.dll
+C:\Users\Jawad\Desktop\MasterDetailPage\MasterDetailPageNavigation\bin\Debug\Xamarin.Forms.Xaml.dll
+C:\Users\Jawad\Desktop\MasterDetailPage\MasterDetailPageNavigation\bin\Debug\Xamarin.Forms.Core.pdb
+C:\Users\Jawad\Desktop\MasterDetailPage\MasterDetailPageNavigation\bin\Debug\Xamarin.Forms.Core.xml
+C:\Users\Jawad\Desktop\MasterDetailPage\MasterDetailPageNavigation\bin\Debug\Xamarin.Forms.Platform.pdb
+C:\Users\Jawad\Desktop\MasterDetailPage\MasterDetailPageNavigation\bin\Debug\Xamarin.Forms.Xaml.pdb
+C:\Users\Jawad\Desktop\MasterDetailPage\MasterDetailPageNavigation\bin\Debug\Xamarin.Forms.Xaml.xml
+C:\Users\Jawad\Desktop\MasterDetailPage\MasterDetailPageNavigation\obj\Debug\MasterDetailPageNavigation.MainPage.xaml.g.cs
+C:\Users\Jawad\Desktop\MasterDetailPage\MasterDetailPageNavigation\obj\Debug\MasterDetailPageNavigation.MasterPage.xaml.g.cs
+C:\Users\Jawad\Desktop\MasterDetailPage\MasterDetailPageNavigation\obj\Debug\MasterDetailPageNavigation.dll
+C:\Users\Jawad\Desktop\MasterDetailPage\MasterDetailPageNavigation\obj\Debug\MasterDetailPageNavigation.pdb
+C:\Users\Jawad\Desktop\MasterDetailPage\MasterDetailPageNavigation\obj\Debug\MasterDetailPageNavigation.csprojResolveAssemblyReference.cache
+C:\Users\Jawad\Desktop\MasterDetailPage\MasterDetailPageNavigation\obj\Debug\MasterDetailPageNavigation.AutoPage.xaml.g.cs
+C:\Users\Jawad\Desktop\MasterDetailPage\MasterDetailPageNavigation\obj\Debug\MasterDetailPageNavigation.SettingsPage.xaml.g.cs
+C:\Users\Jawad\Desktop\MasterDetailPage\MasterDetailPageNavigation\obj\Debug\MasterDetailPageNavigation.HomePage.xaml.g.cs
+C:\Users\Jawad\Desktop\MasterDetailPage\MasterDetailPageNavigation\obj\Debug\MasterDetailPageNavigation.AboutPage.xaml.g.cs
+C:\Users\Jawad\Desktop\MasterDetailPage\MasterDetailPageNavigation\obj\Debug\MasterDetailPageNavigation.FAQPage.xaml.g.cs
+C:\Users\Jawad\Desktop\MasterDetailPage\MasterDetailPageNavigation\obj\Debug\MasterDetailPageNavigation.ContactPage.xaml.g.cs
+C:\Users\Jawad\Desktop\MasterDetailPage\MasterDetailPageNavigation\obj\Debug\MasterDetailPageNavigation.CallAgentPage.xaml.g.cs
+C:\Users\Jawad\Desktop\MasterDetailPage\MasterDetailPageNavigation\obj\Debug\MasterDetailPageNavigation.dll.mdb
+C:\Users\Jawad\Desktop\MasterDetailPage\MasterDetailPageNavigation\bin\Debug\MasterDetailPageNavigation.dll.mdb
+C:\Users\Jawad\Desktop\EZClaim\MasterDetailPage\MasterDetailPageNavigation\bin\Debug\MasterDetailPageNavigation.dll
+C:\Users\Jawad\Desktop\EZClaim\MasterDetailPage\MasterDetailPageNavigation\bin\Debug\MasterDetailPageNavigation.pdb
+C:\Users\Jawad\Desktop\EZClaim\MasterDetailPage\MasterDetailPageNavigation\bin\Debug\Xamarin.Forms.Core.dll
+C:\Users\Jawad\Desktop\EZClaim\MasterDetailPage\MasterDetailPageNavigation\bin\Debug\Xamarin.Forms.Platform.dll
+C:\Users\Jawad\Desktop\EZClaim\MasterDetailPage\MasterDetailPageNavigation\bin\Debug\Xamarin.Forms.Xaml.dll
+C:\Users\Jawad\Desktop\EZClaim\MasterDetailPage\MasterDetailPageNavigation\bin\Debug\Xamarin.Forms.Core.pdb
+C:\Users\Jawad\Desktop\EZClaim\MasterDetailPage\MasterDetailPageNavigation\bin\Debug\Xamarin.Forms.Core.xml
+C:\Users\Jawad\Desktop\EZClaim\MasterDetailPage\MasterDetailPageNavigation\bin\Debug\Xamarin.Forms.Platform.pdb
+C:\Users\Jawad\Desktop\EZClaim\MasterDetailPage\MasterDetailPageNavigation\bin\Debug\Xamarin.Forms.Xaml.pdb
+C:\Users\Jawad\Desktop\EZClaim\MasterDetailPage\MasterDetailPageNavigation\bin\Debug\Xamarin.Forms.Xaml.xml
+C:\Users\Jawad\Desktop\EZClaim\MasterDetailPage\MasterDetailPageNavigation\obj\Debug\MasterDetailPageNavigation.csprojResolveAssemblyReference.cache
+C:\Users\Jawad\Desktop\EZClaim\MasterDetailPage\MasterDetailPageNavigation\obj\Debug\MasterDetailPageNavigation.MainPage.xaml.g.cs
+C:\Users\Jawad\Desktop\EZClaim\MasterDetailPage\MasterDetailPageNavigation\obj\Debug\MasterDetailPageNavigation.MasterPage.xaml.g.cs
+C:\Users\Jawad\Desktop\EZClaim\MasterDetailPage\MasterDetailPageNavigation\obj\Debug\MasterDetailPageNavigation.AutoPage.xaml.g.cs
+C:\Users\Jawad\Desktop\EZClaim\MasterDetailPage\MasterDetailPageNavigation\obj\Debug\MasterDetailPageNavigation.SettingsPage.xaml.g.cs
+C:\Users\Jawad\Desktop\EZClaim\MasterDetailPage\MasterDetailPageNavigation\obj\Debug\MasterDetailPageNavigation.HomePage.xaml.g.cs
+C:\Users\Jawad\Desktop\EZClaim\MasterDetailPage\MasterDetailPageNavigation\obj\Debug\MasterDetailPageNavigation.AboutPage.xaml.g.cs
+C:\Users\Jawad\Desktop\EZClaim\MasterDetailPage\MasterDetailPageNavigation\obj\Debug\MasterDetailPageNavigation.FAQPage.xaml.g.cs
+C:\Users\Jawad\Desktop\EZClaim\MasterDetailPage\MasterDetailPageNavigation\obj\Debug\MasterDetailPageNavigation.ContactPage.xaml.g.cs
+C:\Users\Jawad\Desktop\EZClaim\MasterDetailPage\MasterDetailPageNavigation\obj\Debug\MasterDetailPageNavigation.CallAgentPage.xaml.g.cs
+C:\Users\Jawad\Desktop\EZClaim\MasterDetailPage\MasterDetailPageNavigation\obj\Debug\MasterDetailPageNavigation.dll
+C:\Users\Jawad\Desktop\EZClaim\MasterDetailPage\MasterDetailPageNavigation\obj\Debug\MasterDetailPageNavigation.pdb
+C:\Users\Jawad\Desktop\EZClaim\MasterDetailPage\MasterDetailPageNavigation\obj\Debug\MasterDetailPageNavigation.dll.mdb
+C:\Users\Jawad\Desktop\EZClaim\MasterDetailPage\MasterDetailPageNavigation\bin\Debug\MasterDetailPageNavigation.dll.mdb
+D:\EZClaim\MasterDetailPage\MasterDetailPageNavigation\bin\Debug\MasterDetailPageNavigation.dll
+D:\EZClaim\MasterDetailPage\MasterDetailPageNavigation\bin\Debug\MasterDetailPageNavigation.pdb
+D:\EZClaim\MasterDetailPage\MasterDetailPageNavigation\bin\Debug\Xamarin.Forms.Core.dll
+D:\EZClaim\MasterDetailPage\MasterDetailPageNavigation\bin\Debug\Xamarin.Forms.Platform.dll
+D:\EZClaim\MasterDetailPage\MasterDetailPageNavigation\bin\Debug\Xamarin.Forms.Xaml.dll
+D:\EZClaim\MasterDetailPage\MasterDetailPageNavigation\bin\Debug\Xamarin.Forms.Core.pdb
+D:\EZClaim\MasterDetailPage\MasterDetailPageNavigation\bin\Debug\Xamarin.Forms.Core.xml
+D:\EZClaim\MasterDetailPage\MasterDetailPageNavigation\bin\Debug\Xamarin.Forms.Platform.pdb
+D:\EZClaim\MasterDetailPage\MasterDetailPageNavigation\bin\Debug\Xamarin.Forms.Xaml.pdb
+D:\EZClaim\MasterDetailPage\MasterDetailPageNavigation\bin\Debug\Xamarin.Forms.Xaml.xml
+D:\EZClaim\MasterDetailPage\MasterDetailPageNavigation\obj\Debug\MasterDetailPageNavigation.csprojResolveAssemblyReference.cache
+D:\EZClaim\MasterDetailPage\MasterDetailPageNavigation\obj\Debug\MasterDetailPageNavigation.MainPage.xaml.g.cs
+D:\EZClaim\MasterDetailPage\MasterDetailPageNavigation\obj\Debug\MasterDetailPageNavigation.MasterPage.xaml.g.cs
+D:\EZClaim\MasterDetailPage\MasterDetailPageNavigation\obj\Debug\MasterDetailPageNavigation.AutoPage.xaml.g.cs
+D:\EZClaim\MasterDetailPage\MasterDetailPageNavigation\obj\Debug\MasterDetailPageNavigation.SettingsPage.xaml.g.cs
+D:\EZClaim\MasterDetailPage\MasterDetailPageNavigation\obj\Debug\MasterDetailPageNavigation.HomePage.xaml.g.cs
+D:\EZClaim\MasterDetailPage\MasterDetailPageNavigation\obj\Debug\MasterDetailPageNavigation.AboutPage.xaml.g.cs
+D:\EZClaim\MasterDetailPage\MasterDetailPageNavigation\obj\Debug\MasterDetailPageNavigation.FAQPage.xaml.g.cs
+D:\EZClaim\MasterDetailPage\MasterDetailPageNavigation\obj\Debug\MasterDetailPageNavigation.ContactPage.xaml.g.cs
+D:\EZClaim\MasterDetailPage\MasterDetailPageNavigation\obj\Debug\MasterDetailPageNavigation.CallAgentPage.xaml.g.cs
+D:\EZClaim\MasterDetailPage\MasterDetailPageNavigation\obj\Debug\MasterDetailPageNavigation.dll
+D:\EZClaim\MasterDetailPage\MasterDetailPageNavigation\obj\Debug\MasterDetailPageNavigation.pdb
+D:\EZClaim\MasterDetailPage\MasterDetailPageNavigation\obj\Debug\MasterDetailPageNavigation.dll.mdb
+D:\EZClaim\MasterDetailPage\MasterDetailPageNavigation\bin\Debug\MasterDetailPageNavigation.dll.mdb
+H:\Users\Win 7\Desktop\EZClaim\MasterDetailPage\MasterDetailPageNavigation\obj\Debug\MasterDetailPageNavigation.MainPage.xaml.g.cs
+H:\Users\Win 7\Desktop\EZClaim\MasterDetailPage\MasterDetailPageNavigation\obj\Debug\MasterDetailPageNavigation.MasterPage.xaml.g.cs
+H:\Users\Win 7\Desktop\EZClaim\MasterDetailPage\MasterDetailPageNavigation\obj\Debug\MasterDetailPageNavigation.AutoPage.xaml.g.cs
+H:\Users\Win 7\Desktop\EZClaim\MasterDetailPage\MasterDetailPageNavigation\obj\Debug\MasterDetailPageNavigation.SettingsPage.xaml.g.cs
+H:\Users\Win 7\Desktop\EZClaim\MasterDetailPage\MasterDetailPageNavigation\obj\Debug\MasterDetailPageNavigation.HomePage.xaml.g.cs
+H:\Users\Win 7\Desktop\EZClaim\MasterDetailPage\MasterDetailPageNavigation\obj\Debug\MasterDetailPageNavigation.AboutPage.xaml.g.cs
+H:\Users\Win 7\Desktop\EZClaim\MasterDetailPage\MasterDetailPageNavigation\obj\Debug\MasterDetailPageNavigation.FAQPage.xaml.g.cs
+H:\Users\Win 7\Desktop\EZClaim\MasterDetailPage\MasterDetailPageNavigation\obj\Debug\MasterDetailPageNavigation.ContactPage.xaml.g.cs
+H:\Users\Win 7\Desktop\EZClaim\MasterDetailPage\MasterDetailPageNavigation\obj\Debug\MasterDetailPageNavigation.CallAgentPage.xaml.g.cs
+H:\Users\Win 7\Desktop\EZClaim\MasterDetailPage\MasterDetailPageNavigation\obj\Debug\MasterDetailPageNavigation.LoginPage.xaml.g.cs
+H:\Users\Win 7\Desktop\EZClaim\MasterDetailPage\MasterDetailPageNavigation\obj\Debug\MasterDetailPageNavigation.ProviderLoginPage.xaml.g.cs
+H:\Users\Win 7\Desktop\EZClaim\MasterDetailPage\MasterDetailPageNavigation\bin\Debug\MasterDetailPageNavigation.dll
+H:\Users\Win 7\Desktop\EZClaim\MasterDetailPage\MasterDetailPageNavigation\bin\Debug\MasterDetailPageNavigation.pdb
+H:\Users\Win 7\Desktop\EZClaim\MasterDetailPage\MasterDetailPageNavigation\bin\Debug\Xamarin.Auth.Android.dll
+H:\Users\Win 7\Desktop\EZClaim\MasterDetailPage\MasterDetailPageNavigation\bin\Debug\Xamarin.Forms.Core.dll
+H:\Users\Win 7\Desktop\EZClaim\MasterDetailPage\MasterDetailPageNavigation\bin\Debug\Xamarin.Forms.Platform.dll
+H:\Users\Win 7\Desktop\EZClaim\MasterDetailPage\MasterDetailPageNavigation\bin\Debug\Xamarin.Forms.Xaml.dll
+H:\Users\Win 7\Desktop\EZClaim\MasterDetailPage\MasterDetailPageNavigation\bin\Debug\Xamarin.Auth.Android.xml
+H:\Users\Win 7\Desktop\EZClaim\MasterDetailPage\MasterDetailPageNavigation\bin\Debug\Xamarin.Forms.Core.pdb
+H:\Users\Win 7\Desktop\EZClaim\MasterDetailPage\MasterDetailPageNavigation\bin\Debug\Xamarin.Forms.Core.xml
+H:\Users\Win 7\Desktop\EZClaim\MasterDetailPage\MasterDetailPageNavigation\bin\Debug\Xamarin.Forms.Platform.pdb
+H:\Users\Win 7\Desktop\EZClaim\MasterDetailPage\MasterDetailPageNavigation\bin\Debug\Xamarin.Forms.Xaml.pdb
+H:\Users\Win 7\Desktop\EZClaim\MasterDetailPage\MasterDetailPageNavigation\bin\Debug\Xamarin.Forms.Xaml.xml
+H:\Users\Win 7\Desktop\EZClaim\MasterDetailPage\MasterDetailPageNavigation\obj\Debug\MasterDetailPageNavigation.dll
+H:\Users\Win 7\Desktop\EZClaim\MasterDetailPage\MasterDetailPageNavigation\obj\Debug\MasterDetailPageNavigation.pdb
+H:\Users\Win 7\Desktop\EZClaim\MasterDetailPage\MasterDetailPageNavigation\obj\Debug\MasterDetailPageNavigation.csprojResolveAssemblyReference.cache
+H:\Users\Win 7\Desktop\EZClaim\MasterDetailPage\MasterDetailPageNavigation\obj\Debug\MasterDetailPageNavigation.dll.mdb
+H:\Users\Win 7\Desktop\EZClaim\MasterDetailPage\MasterDetailPageNavigation\bin\Debug\MasterDetailPageNavigation.dll.mdb

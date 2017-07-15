@@ -1,0 +1,5 @@
+H:\Users\Win 7\Desktop\EZClaim\MasterDetailPage\iOS\obj\iPhone\Release\ibtool\_BundleResourceWithLogicalName.items
+H:\Users\Win 7\Desktop\EZClaim\MasterDetailPage\iOS\obj\iPhone\Release\actool\_PartialAppManifest.items
+H:\Users\Win 7\Desktop\EZClaim\MasterDetailPage\iOS\obj\iPhone\Release\actool\_BundleResourceWithLogicalName.items
+H:\Users\Win 7\Desktop\EZClaim\MasterDetailPage\iOS\obj\iPhone\Release\optimized\
+H:\Users\Win 7\Desktop\EZClaim\MasterDetailPage\iOS\obj\iPhone\Release\EZClaim.iOS.csprojResolveAssemblyReference.cache

@@ -1,60 +1,58 @@
-/Users/maazhaque/Desktop/Dev/EZClaim/EZClaim 7-2/Droid/obj/Debug/android/assets/EZClaim.Droid.dll
-/Users/maazhaque/Desktop/Dev/EZClaim/EZClaim 7-2/Droid/obj/Debug/android/assets/EZClaim.dll
-/Users/maazhaque/Desktop/Dev/EZClaim/EZClaim 7-2/Droid/obj/Debug/android/assets/FormsViewGroup.dll
-/Users/maazhaque/Desktop/Dev/EZClaim/EZClaim 7-2/Droid/obj/Debug/android/assets/Xamarin.Android.Support.Animated.Vector.Drawable.dll
-/Users/maazhaque/Desktop/Dev/EZClaim/EZClaim 7-2/Droid/obj/Debug/android/assets/Xamarin.Android.Support.Annotations.dll
-/Users/maazhaque/Desktop/Dev/EZClaim/EZClaim 7-2/Droid/obj/Debug/android/assets/Xamarin.Android.Support.Compat.dll
-/Users/maazhaque/Desktop/Dev/EZClaim/EZClaim 7-2/Droid/obj/Debug/android/assets/Xamarin.Android.Support.Core.UI.dll
-/Users/maazhaque/Desktop/Dev/EZClaim/EZClaim 7-2/Droid/obj/Debug/android/assets/Xamarin.Android.Support.Core.Utils.dll
-/Users/maazhaque/Desktop/Dev/EZClaim/EZClaim 7-2/Droid/obj/Debug/android/assets/Xamarin.Android.Support.Design.dll
-/Users/maazhaque/Desktop/Dev/EZClaim/EZClaim 7-2/Droid/obj/Debug/android/assets/Xamarin.Android.Support.Fragment.dll
-/Users/maazhaque/Desktop/Dev/EZClaim/EZClaim 7-2/Droid/obj/Debug/android/assets/Xamarin.Android.Support.Media.Compat.dll
-/Users/maazhaque/Desktop/Dev/EZClaim/EZClaim 7-2/Droid/obj/Debug/android/assets/Xamarin.Android.Support.Transition.dll
-/Users/maazhaque/Desktop/Dev/EZClaim/EZClaim 7-2/Droid/obj/Debug/android/assets/Xamarin.Android.Support.v4.dll
-/Users/maazhaque/Desktop/Dev/EZClaim/EZClaim 7-2/Droid/obj/Debug/android/assets/Xamarin.Android.Support.v7.AppCompat.dll
-/Users/maazhaque/Desktop/Dev/EZClaim/EZClaim 7-2/Droid/obj/Debug/android/assets/Xamarin.Android.Support.v7.CardView.dll
-/Users/maazhaque/Desktop/Dev/EZClaim/EZClaim 7-2/Droid/obj/Debug/android/assets/Xamarin.Android.Support.v7.MediaRouter.dll
-/Users/maazhaque/Desktop/Dev/EZClaim/EZClaim 7-2/Droid/obj/Debug/android/assets/Xamarin.Android.Support.v7.Palette.dll
-/Users/maazhaque/Desktop/Dev/EZClaim/EZClaim 7-2/Droid/obj/Debug/android/assets/Xamarin.Android.Support.v7.RecyclerView.dll
-/Users/maazhaque/Desktop/Dev/EZClaim/EZClaim 7-2/Droid/obj/Debug/android/assets/Xamarin.Android.Support.Vector.Drawable.dll
-/Users/maazhaque/Desktop/Dev/EZClaim/EZClaim 7-2/Droid/obj/Debug/android/assets/Xamarin.Firebase.AppIndexing.dll
-/Users/maazhaque/Desktop/Dev/EZClaim/EZClaim 7-2/Droid/obj/Debug/android/assets/Xamarin.Firebase.Common.dll
-/Users/maazhaque/Desktop/Dev/EZClaim/EZClaim 7-2/Droid/obj/Debug/android/assets/Xamarin.Forms.Core.dll
-/Users/maazhaque/Desktop/Dev/EZClaim/EZClaim 7-2/Droid/obj/Debug/android/assets/Xamarin.Forms.Platform.Android.dll
-/Users/maazhaque/Desktop/Dev/EZClaim/EZClaim 7-2/Droid/obj/Debug/android/assets/Xamarin.Forms.Platform.dll
-/Users/maazhaque/Desktop/Dev/EZClaim/EZClaim 7-2/Droid/obj/Debug/android/assets/Xamarin.Forms.Xaml.dll
-/Users/maazhaque/Desktop/Dev/EZClaim/EZClaim 7-2/Droid/obj/Debug/android/assets/Xamarin.GooglePlayServices.AppIndexing.dll
-/Users/maazhaque/Desktop/Dev/EZClaim/EZClaim 7-2/Droid/obj/Debug/android/assets/Xamarin.GooglePlayServices.Base.dll
-/Users/maazhaque/Desktop/Dev/EZClaim/EZClaim 7-2/Droid/obj/Debug/android/assets/Xamarin.GooglePlayServices.Basement.dll
-/Users/maazhaque/Desktop/Dev/EZClaim/EZClaim 7-2/Droid/obj/Debug/android/assets/Xamarin.GooglePlayServices.Tasks.dll
-/Users/maazhaque/Desktop/Dev/EZClaim/EZClaim 7-2/Droid/obj/Debug/android/assets/Java.Interop.dll
-/Users/maazhaque/Desktop/Dev/EZClaim/EZClaim 7-2/Droid/obj/Debug/android/assets/Mono.Android.dll
-/Users/maazhaque/Desktop/Dev/EZClaim/EZClaim 7-2/Droid/obj/Debug/android/assets/System.Core.dll
-/Users/maazhaque/Desktop/Dev/EZClaim/EZClaim 7-2/Droid/obj/Debug/android/assets/System.dll
-/Users/maazhaque/Desktop/Dev/EZClaim/EZClaim 7-2/Droid/obj/Debug/android/assets/System.Xml.dll
-/Users/maazhaque/Desktop/Dev/EZClaim/EZClaim 7-2/Droid/obj/Debug/android/assets/mscorlib.dll
-/Users/maazhaque/Desktop/Dev/EZClaim/EZClaim 7-2/Droid/obj/Debug/android/assets/System.Runtime.dll
-/Users/maazhaque/Desktop/Dev/EZClaim/EZClaim 7-2/Droid/obj/Debug/android/assets/System.ComponentModel.Composition.dll
-/Users/maazhaque/Desktop/Dev/EZClaim/EZClaim 7-2/Droid/obj/Debug/android/assets/System.Diagnostics.Debug.dll
-/Users/maazhaque/Desktop/Dev/EZClaim/EZClaim 7-2/Droid/obj/Debug/android/assets/System.ObjectModel.dll
-/Users/maazhaque/Desktop/Dev/EZClaim/EZClaim 7-2/Droid/obj/Debug/android/assets/System.Diagnostics.Tools.dll
-/Users/maazhaque/Desktop/Dev/EZClaim/EZClaim 7-2/Droid/obj/Debug/android/assets/System.Threading.Tasks.dll
-/Users/maazhaque/Desktop/Dev/EZClaim/EZClaim 7-2/Droid/obj/Debug/android/assets/System.Collections.dll
-/Users/maazhaque/Desktop/Dev/EZClaim/EZClaim 7-2/Droid/obj/Debug/android/assets/System.Threading.dll
-/Users/maazhaque/Desktop/Dev/EZClaim/EZClaim 7-2/Droid/obj/Debug/android/assets/System.Linq.dll
-/Users/maazhaque/Desktop/Dev/EZClaim/EZClaim 7-2/Droid/obj/Debug/android/assets/System.ComponentModel.dll
-/Users/maazhaque/Desktop/Dev/EZClaim/EZClaim 7-2/Droid/obj/Debug/android/assets/System.Xml.ReaderWriter.dll
-/Users/maazhaque/Desktop/Dev/EZClaim/EZClaim 7-2/Droid/obj/Debug/android/assets/System.Reflection.dll
-/Users/maazhaque/Desktop/Dev/EZClaim/EZClaim 7-2/Droid/obj/Debug/android/assets/System.Globalization.dll
-/Users/maazhaque/Desktop/Dev/EZClaim/EZClaim 7-2/Droid/obj/Debug/android/assets/System.Linq.Expressions.dll
-/Users/maazhaque/Desktop/Dev/EZClaim/EZClaim 7-2/Droid/obj/Debug/android/assets/System.IO.dll
-/Users/maazhaque/Desktop/Dev/EZClaim/EZClaim 7-2/Droid/obj/Debug/android/assets/System.Dynamic.Runtime.dll
-/Users/maazhaque/Desktop/Dev/EZClaim/EZClaim 7-2/Droid/obj/Debug/android/assets/System.Runtime.Extensions.dll
-/Users/maazhaque/Desktop/Dev/EZClaim/EZClaim 7-2/Droid/obj/Debug/android/assets/System.Reflection.Extensions.dll
-/Users/maazhaque/Desktop/Dev/EZClaim/EZClaim 7-2/Droid/obj/Debug/android/assets/System.Net.Http.dll
-/Users/maazhaque/Desktop/Dev/EZClaim/EZClaim 7-2/Droid/obj/Debug/android/assets/System.Runtime.Serialization.dll
-/Users/maazhaque/Desktop/Dev/EZClaim/EZClaim 7-2/Droid/obj/Debug/android/assets/System.ServiceModel.Internals.dll
-/Users/maazhaque/Desktop/Dev/EZClaim/EZClaim 7-2/Droid/obj/Debug/android/assets/System.Text.RegularExpressions.dll
-/Users/maazhaque/Desktop/Dev/EZClaim/EZClaim 7-2/Droid/obj/Debug/android/assets/System.Collections.Concurrent.dll
-/Users/maazhaque/Desktop/Dev/EZClaim/EZClaim 7-2/Droid/obj/Debug/android/assets/System.Runtime.InteropServices.dll
-/Users/maazhaque/Desktop/Dev/EZClaim/EZClaim 7-2/Droid/obj/Debug/android/assets/Mono.Security.dll
+H:\Users\Win 7\Desktop\EZCliamGit\EZClaim 7-2\Droid\obj\Debug\android\assets\EZClaim.Droid.dll
+H:\Users\Win 7\Desktop\EZCliamGit\EZClaim 7-2\Droid\obj\Debug\android\assets\EZClaim.dll
+H:\Users\Win 7\Desktop\EZCliamGit\EZClaim 7-2\Droid\obj\Debug\android\assets\FormsViewGroup.dll
+H:\Users\Win 7\Desktop\EZCliamGit\EZClaim 7-2\Droid\obj\Debug\android\assets\Xamarin.Android.Support.Animated.Vector.Drawable.dll
+H:\Users\Win 7\Desktop\EZCliamGit\EZClaim 7-2\Droid\obj\Debug\android\assets\Xamarin.Android.Support.Compat.dll
+H:\Users\Win 7\Desktop\EZCliamGit\EZClaim 7-2\Droid\obj\Debug\android\assets\Xamarin.Android.Support.Core.UI.dll
+H:\Users\Win 7\Desktop\EZCliamGit\EZClaim 7-2\Droid\obj\Debug\android\assets\Xamarin.Android.Support.Core.Utils.dll
+H:\Users\Win 7\Desktop\EZCliamGit\EZClaim 7-2\Droid\obj\Debug\android\assets\Xamarin.Android.Support.Design.dll
+H:\Users\Win 7\Desktop\EZCliamGit\EZClaim 7-2\Droid\obj\Debug\android\assets\Xamarin.Android.Support.Fragment.dll
+H:\Users\Win 7\Desktop\EZCliamGit\EZClaim 7-2\Droid\obj\Debug\android\assets\Xamarin.Android.Support.Media.Compat.dll
+H:\Users\Win 7\Desktop\EZCliamGit\EZClaim 7-2\Droid\obj\Debug\android\assets\Xamarin.Android.Support.Transition.dll
+H:\Users\Win 7\Desktop\EZCliamGit\EZClaim 7-2\Droid\obj\Debug\android\assets\Xamarin.Android.Support.v4.dll
+H:\Users\Win 7\Desktop\EZCliamGit\EZClaim 7-2\Droid\obj\Debug\android\assets\Xamarin.Android.Support.v7.AppCompat.dll
+H:\Users\Win 7\Desktop\EZCliamGit\EZClaim 7-2\Droid\obj\Debug\android\assets\Xamarin.Android.Support.v7.CardView.dll
+H:\Users\Win 7\Desktop\EZCliamGit\EZClaim 7-2\Droid\obj\Debug\android\assets\Xamarin.Android.Support.v7.MediaRouter.dll
+H:\Users\Win 7\Desktop\EZCliamGit\EZClaim 7-2\Droid\obj\Debug\android\assets\Xamarin.Android.Support.v7.Palette.dll
+H:\Users\Win 7\Desktop\EZCliamGit\EZClaim 7-2\Droid\obj\Debug\android\assets\Xamarin.Android.Support.v7.RecyclerView.dll
+H:\Users\Win 7\Desktop\EZCliamGit\EZClaim 7-2\Droid\obj\Debug\android\assets\Xamarin.Android.Support.Vector.Drawable.dll
+H:\Users\Win 7\Desktop\EZCliamGit\EZClaim 7-2\Droid\obj\Debug\android\assets\Xamarin.Forms.Core.dll
+H:\Users\Win 7\Desktop\EZCliamGit\EZClaim 7-2\Droid\obj\Debug\android\assets\Xamarin.Forms.Platform.Android.dll
+H:\Users\Win 7\Desktop\EZCliamGit\EZClaim 7-2\Droid\obj\Debug\android\assets\Xamarin.Forms.Platform.dll
+H:\Users\Win 7\Desktop\EZCliamGit\EZClaim 7-2\Droid\obj\Debug\android\assets\Xamarin.Forms.Xaml.dll
+H:\Users\Win 7\Desktop\EZCliamGit\EZClaim 7-2\Droid\obj\Debug\android\assets\Xamarin.GooglePlayServices.AppIndexing.dll
+H:\Users\Win 7\Desktop\EZCliamGit\EZClaim 7-2\Droid\obj\Debug\android\assets\Xamarin.GooglePlayServices.Base.dll
+H:\Users\Win 7\Desktop\EZCliamGit\EZClaim 7-2\Droid\obj\Debug\android\assets\Xamarin.GooglePlayServices.Basement.dll
+H:\Users\Win 7\Desktop\EZCliamGit\EZClaim 7-2\Droid\obj\Debug\android\assets\Xamarin.GooglePlayServices.Tasks.dll
+H:\Users\Win 7\Desktop\EZCliamGit\EZClaim 7-2\Droid\obj\Debug\android\assets\Xamarin.iOS.dll
+H:\Users\Win 7\Desktop\EZCliamGit\EZClaim 7-2\Droid\obj\Debug\android\assets\Java.Interop.dll
+H:\Users\Win 7\Desktop\EZCliamGit\EZClaim 7-2\Droid\obj\Debug\android\assets\Mono.Android.dll
+H:\Users\Win 7\Desktop\EZCliamGit\EZClaim 7-2\Droid\obj\Debug\android\assets\System.Core.dll
+H:\Users\Win 7\Desktop\EZCliamGit\EZClaim 7-2\Droid\obj\Debug\android\assets\System.dll
+H:\Users\Win 7\Desktop\EZCliamGit\EZClaim 7-2\Droid\obj\Debug\android\assets\System.Xml.dll
+H:\Users\Win 7\Desktop\EZCliamGit\EZClaim 7-2\Droid\obj\Debug\android\assets\mscorlib.dll
+H:\Users\Win 7\Desktop\EZCliamGit\EZClaim 7-2\Droid\obj\Debug\android\assets\System.Runtime.dll
+H:\Users\Win 7\Desktop\EZCliamGit\EZClaim 7-2\Droid\obj\Debug\android\assets\System.ComponentModel.Composition.dll
+H:\Users\Win 7\Desktop\EZCliamGit\EZClaim 7-2\Droid\obj\Debug\android\assets\System.Diagnostics.Debug.dll
+H:\Users\Win 7\Desktop\EZCliamGit\EZClaim 7-2\Droid\obj\Debug\android\assets\System.ObjectModel.dll
+H:\Users\Win 7\Desktop\EZCliamGit\EZClaim 7-2\Droid\obj\Debug\android\assets\System.Diagnostics.Tools.dll
+H:\Users\Win 7\Desktop\EZCliamGit\EZClaim 7-2\Droid\obj\Debug\android\assets\System.Threading.Tasks.dll
+H:\Users\Win 7\Desktop\EZCliamGit\EZClaim 7-2\Droid\obj\Debug\android\assets\System.Collections.dll
+H:\Users\Win 7\Desktop\EZCliamGit\EZClaim 7-2\Droid\obj\Debug\android\assets\System.Threading.dll
+H:\Users\Win 7\Desktop\EZCliamGit\EZClaim 7-2\Droid\obj\Debug\android\assets\System.Linq.dll
+H:\Users\Win 7\Desktop\EZCliamGit\EZClaim 7-2\Droid\obj\Debug\android\assets\System.ComponentModel.dll
+H:\Users\Win 7\Desktop\EZCliamGit\EZClaim 7-2\Droid\obj\Debug\android\assets\System.Xml.ReaderWriter.dll
+H:\Users\Win 7\Desktop\EZCliamGit\EZClaim 7-2\Droid\obj\Debug\android\assets\System.Reflection.dll
+H:\Users\Win 7\Desktop\EZCliamGit\EZClaim 7-2\Droid\obj\Debug\android\assets\System.Globalization.dll
+H:\Users\Win 7\Desktop\EZCliamGit\EZClaim 7-2\Droid\obj\Debug\android\assets\System.Linq.Expressions.dll
+H:\Users\Win 7\Desktop\EZCliamGit\EZClaim 7-2\Droid\obj\Debug\android\assets\System.IO.dll
+H:\Users\Win 7\Desktop\EZCliamGit\EZClaim 7-2\Droid\obj\Debug\android\assets\System.Dynamic.Runtime.dll
+H:\Users\Win 7\Desktop\EZCliamGit\EZClaim 7-2\Droid\obj\Debug\android\assets\System.Runtime.Extensions.dll
+H:\Users\Win 7\Desktop\EZCliamGit\EZClaim 7-2\Droid\obj\Debug\android\assets\System.Reflection.Extensions.dll
+H:\Users\Win 7\Desktop\EZCliamGit\EZClaim 7-2\Droid\obj\Debug\android\assets\System.Net.Http.dll
+H:\Users\Win 7\Desktop\EZCliamGit\EZClaim 7-2\Droid\obj\Debug\android\assets\System.Runtime.Serialization.dll
+H:\Users\Win 7\Desktop\EZCliamGit\EZClaim 7-2\Droid\obj\Debug\android\assets\System.ServiceModel.Internals.dll
+H:\Users\Win 7\Desktop\EZCliamGit\EZClaim 7-2\Droid\obj\Debug\android\assets\System.Text.RegularExpressions.dll
+H:\Users\Win 7\Desktop\EZCliamGit\EZClaim 7-2\Droid\obj\Debug\android\assets\Mono.Security.dll
+H:\Users\Win 7\Desktop\EZCliamGit\EZClaim 7-2\Droid\obj\Debug\android\assets\System.Collections.Concurrent.dll
+H:\Users\Win 7\Desktop\EZCliamGit\EZClaim 7-2\Droid\obj\Debug\android\assets\System.Runtime.InteropServices.dll
