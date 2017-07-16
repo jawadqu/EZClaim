@@ -11,7 +11,7 @@
 namespace EZClaim {
     
     
-    [global::Xamarin.Forms.Xaml.XamlFilePathAttribute("H:\\Users\\Win 7\\Desktop\\EZClaimGit\\EZClaim 7-2\\PCL\\View\\SettingsPage.xaml")]
+    [global::Xamarin.Forms.Xaml.XamlFilePathAttribute("H:\\Users\\Win 7\\Desktop\\EZCliamGit\\EZClaim 7-2\\PCL\\View\\SettingsPage.xaml")]
     public partial class SettingsPage : global::Xamarin.Forms.ContentPage {
         
         [global::System.CodeDom.Compiler.GeneratedCodeAttribute("Xamarin.Forms.Build.Tasks.XamlG", "0.0.0.0")]
@@ -22,9 +22,6 @@ namespace EZClaim {
         
         [global::System.CodeDom.Compiler.GeneratedCodeAttribute("Xamarin.Forms.Build.Tasks.XamlG", "0.0.0.0")]
         private global::Xamarin.Forms.Picker language;
-        
-        [global::System.CodeDom.Compiler.GeneratedCodeAttribute("Xamarin.Forms.Build.Tasks.XamlG", "0.0.0.0")]
-        private global::Xamarin.Forms.Entry email;
         
         [global::System.CodeDom.Compiler.GeneratedCodeAttribute("Xamarin.Forms.Build.Tasks.XamlG", "0.0.0.0")]
         private global::Xamarin.Forms.Entry password;
@@ -38,7 +35,6 @@ namespace EZClaim {
             firstName = global::Xamarin.Forms.NameScopeExtensions.FindByName<global::Xamarin.Forms.Entry>(this, "firstName");
             lastName = global::Xamarin.Forms.NameScopeExtensions.FindByName<global::Xamarin.Forms.Entry>(this, "lastName");
             language = global::Xamarin.Forms.NameScopeExtensions.FindByName<global::Xamarin.Forms.Picker>(this, "language");
-            email = global::Xamarin.Forms.NameScopeExtensions.FindByName<global::Xamarin.Forms.Entry>(this, "email");
             password = global::Xamarin.Forms.NameScopeExtensions.FindByName<global::Xamarin.Forms.Entry>(this, "password");
             reEnterPassword = global::Xamarin.Forms.NameScopeExtensions.FindByName<global::Xamarin.Forms.Entry>(this, "reEnterPassword");
         }

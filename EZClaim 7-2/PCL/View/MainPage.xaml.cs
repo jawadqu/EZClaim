@@ -26,12 +26,15 @@ namespace EZClaim
                 }
                 else
                 {
-                    Detail = new NavigationPage((Page)Activator.CreateInstance(item.TargetType))
-                    {
-                        BarBackgroundColor = Color.FromHex("#367aa3"),
-                        BarTextColor = Color.White,
-                    };
-                    //masterPage.ListView.SelectedItem = null;
+                    //Detail = new NavigationPage((Page)Activator.CreateInstance(item.TargetType))
+                    //{
+                    //    BarBackgroundColor = Color.FromHex("#367aa3"),
+                    //    BarTextColor = Color.White,
+                    //};
+                    
+                    Page displayPage = (Page) Activator.CreateInstance(item.TargetType);
+                    Detail.Navigation.PushAsync(displayPage);
+
                     IsPresented = false;
                 }
 			}

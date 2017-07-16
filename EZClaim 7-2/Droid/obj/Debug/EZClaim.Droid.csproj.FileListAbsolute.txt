@@ -308,3 +308,12 @@ H:\Users\Win 7\Desktop\EZCliamGit\EZClaim 7-2\Droid\obj\Debug\res\drawable\splas
 H:\Users\Win 7\Desktop\EZCliamGit\EZClaim 7-2\Droid\obj\Debug\res\values\colors.xml
 H:\Users\Win 7\Desktop\EZCliamGit\EZClaim 7-2\Droid\obj\Debug\R.cs.flag
 H:\Users\Win 7\Desktop\EZCliamGit\EZClaim 7-2\Droid\obj\Debug\uploadflags.txt
+H:\Users\Win 7\Desktop\EZCliamGit\EZClaim 7-2\Droid\bin\Debug\EZClaim.dll.mdb
+H:\Users\Win 7\Desktop\EZCliamGit\EZClaim 7-2\Droid\bin\Debug\EZClaim.Droid.dll.mdb
+H:\Users\Win 7\Desktop\EZCliamGit\EZClaim 7-2\Droid\obj\Debug\android\assets\EZClaim.dll.mdb
+H:\Users\Win 7\Desktop\EZCliamGit\EZClaim 7-2\Droid\obj\Debug\android\assets\EZClaim.Droid.dll.mdb
+H:\Users\Win 7\Desktop\EZCliamGit\EZClaim 7-2\Droid\obj\Debug\android\assets\FormsViewGroup.dll.mdb
+H:\Users\Win 7\Desktop\EZCliamGit\EZClaim 7-2\Droid\obj\Debug\android\assets\Xamarin.Forms.Core.dll.mdb
+H:\Users\Win 7\Desktop\EZCliamGit\EZClaim 7-2\Droid\obj\Debug\android\assets\Xamarin.Forms.Platform.Android.dll.mdb
+H:\Users\Win 7\Desktop\EZCliamGit\EZClaim 7-2\Droid\obj\Debug\android\assets\Xamarin.Forms.Xaml.dll.mdb
+H:\Users\Win 7\Desktop\EZCliamGit\EZClaim 7-2\Droid\obj\Debug\android\assets\Xamarin.iOS.dll.mdb

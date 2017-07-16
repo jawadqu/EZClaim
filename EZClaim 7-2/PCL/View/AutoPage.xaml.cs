@@ -43,13 +43,12 @@ namespace EZClaim
                 return;
             }
 
-            Auto auto = new Auto() { Vehicle = vm.Vehicle, Make = vm.Make, Model = vm.Make, LicensePlate = vm.LicensePlate, Year = vm.Year, InsuranceCompany = vm.InsuranceCompany, PolicyNumber = vm.PolicyNumber ,VIN = vm.VIN };
+            Auto auto = new Auto() { Vehicle = vm.Vehicle, Make = vm.Make, Model = vm.Model, LicensePlate = vm.LicensePlate, Year = vm.Year, InsuranceCompany = vm.InsuranceCompany, PolicyNumber = vm.PolicyNumber ,VIN = vm.VIN };
 
             //check if modified or newly added
-            Auto item = list.FirstOrDefault(i => i.LicensePlate.Equals(auto.LicensePlate, StringComparison.CurrentCultureIgnoreCase));
-            if(item != null)
+            if(this.selectedAuto !=null)
             {
-                _globalInstance.Autos.Remove(item);
+                _globalInstance.Autos.Remove(this.selectedAuto);
             }
 
             _globalInstance.Autos.Add(auto);

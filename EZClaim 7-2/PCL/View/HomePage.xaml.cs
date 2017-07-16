@@ -41,10 +41,9 @@ namespace EZClaim
             Home home = new Home() { Address = vm.Address, City = vm.City, InsuranceCompany = vm.InsuranceCompany, PolicyNumber = vm.PolicyNumber, PostalCode = vm.PostalCode };
 
             //check if modified or newly added
-            Home item = list.FirstOrDefault(i => i.Address.Equals(home.Address, StringComparison.CurrentCultureIgnoreCase) && i.PostalCode.Equals(home.PostalCode, StringComparison.CurrentCultureIgnoreCase));
-            if (item != null)
+            if (this.selectedHome != null)
             {
-                _globalInstance.Homes.Remove(item);
+                _globalInstance.Homes.Remove(this.selectedHome);
             }
 
             _globalInstance.Homes.Add(home);

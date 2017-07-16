@@ -14,16 +14,13 @@
             <Entry HorizontalOptions="FillAndExpand" x:Name="lastName" Placeholder="Last Name" TextColor="Black" BackgroundColor="White" />
 
             <Label Text="Language" TextColor="Black" HorizontalOptions="Start" VerticalOptions="Center" WidthRequest="120" />
-            <Picker Title="English"  HorizontalOptions="FillAndExpand" x:Name="language" TextColor="Black" BackgroundColor="White" >
+            <Picker Title="English"  HorizontalOptions="FillAndExpand" x:Name="language" TextColor="Black" BackgroundColor="White" SelectedIndex="0">
                 <Picker.Items>
                     <x:String>English</x:String>
                     <x:String>French</x:String>
                     <x:String>Mandarin Chinese</x:String>
                 </Picker.Items>
             </Picker>
-
-            <Label Text="Email" TextColor="Black" HorizontalOptions="Start" VerticalOptions="Center" WidthRequest="120" />
-            <Entry HorizontalOptions="FillAndExpand" x:Name="email" Placeholder="Email" Keyboard="Email" TextColor="Black" BackgroundColor="White" />
 
             <Label Text="Password" TextColor="Black" HorizontalOptions="Start" VerticalOptions="Center" WidthRequest="120" />
             <Entry HorizontalOptions="FillAndExpand" x:Name="password" Placeholder="Password" IsPassword="True" TextColor="Black" BackgroundColor="White" />
@@ -34,7 +31,7 @@
             <StackLayout Spacing="10" Padding="10" HorizontalOptions="FillAndExpand" VerticalOptions="FillAndExpand" >
             </StackLayout>
             
-            <Button HorizontalOptions="FillAndExpand" VerticalOptions="End" Text="Update" Clicked="updateAccount_Clicked" BorderRadius="20"/>
+            <Button HorizontalOptions="FillAndExpand" VerticalOptions="End" Text="Update" Clicked="updateAccount_Clicked" BorderRadius="20" BackgroundColor="#3498db"/>
 
         </StackLayout>
     </ContentPage.Content>
